@@ -1,0 +1,5294 @@
+{
+    "2908": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/单词分类_1581144899702.zip",
+        "作答人数": 94,
+        "平均得分": 97.23404255319149
+    },
+    "2172": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/后缀转中缀_1578227554409.zip",
+        "作答人数": 44,
+        "平均得分": 95.0
+    },
+    "2179": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字符串_1578245780260.zip",
+        "作答人数": 48,
+        "平均得分": 100.0
+    },
+    "2176": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/后缀排序_1578238097987.zip",
+        "作答人数": 135,
+        "平均得分": 98.14814814814815
+    },
+    "2307": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/多数元素_1580190831469.zip",
+        "作答人数": 48,
+        "平均得分": 96.875
+    },
+    "2804": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/森雅学加法_1581072797512.zip",
+        "作答人数": 52,
+        "平均得分": 98.07692307692308
+    },
+    "2456": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/计算右侧小于当前元素的个数_1580451904729.zip",
+        "作答人数": 93,
+        "平均得分": 99.78494623655914
+    },
+    "2450": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/在排序数组中查找元素的第一个和最后一个位置_1580449475334.zip",
+        "作答人数": 92,
+        "平均得分": 98.47826086956522
+    },
+    "2081": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/子串查找_1577868767370.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2180": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/找相同字符_1578246661060.zip",
+        "作答人数": 75,
+        "平均得分": 84.26666666666667
+    },
+    "2190": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/甲苯先生和大中锋的字符串_1578280226332.zip",
+        "作答人数": 39,
+        "平均得分": 93.58923076923075
+    },
+    "2177": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Array Poisonous Suffix Problem_1578242527621.zip",
+        "作答人数": 34,
+        "平均得分": 94.11764705882354
+    },
+    "2892": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/梦中的统计_1581142162901.zip",
+        "作答人数": 42,
+        "平均得分": 99.20619047619047
+    },
+    "2188": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字串覆盖_1578277402756.zip",
+        "作答人数": 34,
+        "平均得分": 97.05882352941177
+    },
+    "2199": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/猫咪_1578285738249.zip",
+        "作答人数": 33,
+        "平均得分": 95.15151515151516
+    },
+    "2198": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/求字符串所有后缀贡献最大值_1578284624254.zip",
+        "作答人数": 38,
+        "平均得分": 76.3157894736842
+    },
+    "2164": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/区分所有子字符串的最小更改_1577866310437.zip",
+        "作答人数": 37,
+        "平均得分": 100.0
+    },
+    "2531": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/根据字符出现频率排序_1580561898191.zip",
+        "作答人数": 87,
+        "平均得分": 100.0
+    },
+    "2894": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/honoka的键盘_1581142653945.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2530": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/自定义字符串排序_1580561130194.zip",
+        "作答人数": 87,
+        "平均得分": 100.0
+    },
+    "2200": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/好坏字符串_1578286600212.zip",
+        "作答人数": 39,
+        "平均得分": 94.87179487179488
+    },
+    "2936": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/电话号码_1581089735969.zip",
+        "作答人数": 45,
+        "平均得分": 93.88888888888889
+    },
+    "2474": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最长有效括号_1580472427940.zip",
+        "作答人数": 45,
+        "平均得分": 98.88888888888889
+    },
+    "2173": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/特殊奇数和_1578227956049.zip",
+        "作答人数": 46,
+        "平均得分": 100.0
+    },
+    "2171": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/隔离链接列表中的偶数和奇数节点_1578225498823.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2647": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/收集树木_1580799100843.zip",
+        "作答人数": 43,
+        "平均得分": 100.0
+    },
+    "2548": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最长K个唯一字符子字符串_1580613716698.zip",
+        "作答人数": 43,
+        "平均得分": 99.53488372093024
+    },
+    "2547": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/计算差异为k的不重复对_1580613441446.zip",
+        "作答人数": 46,
+        "平均得分": 99.56521739130434
+    },
+    "2589": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/卢卡斯数_1580708253148.zip",
+        "作答人数": 46,
+        "平均得分": 100.0
+    },
+    "2169": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/后缀表达的评估_1578222987145.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2145": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/直方图中的最大矩形面积_1578143334531.zip",
+        "作答人数": 43,
+        "平均得分": 100.0
+    },
+    "2607": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/等于0、1和2_1580736171649.zip",
+        "作答人数": 46,
+        "平均得分": 97.82608695652173
+    },
+    "2629": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/艾莉亚与大战_1580783766545.zip",
+        "作答人数": 39,
+        "平均得分": 98.71794871794872
+    },
+    "2561": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/计算矩阵对的总和_1580629330600.zip",
+        "作答人数": 46,
+        "平均得分": 98.91304347826087
+    },
+    "2186": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/特殊序列和_1578276936192.zip",
+        "作答人数": 46,
+        "平均得分": 100.0
+    },
+    "2142": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/打印支架编号_1578141434336.zip",
+        "作答人数": 43,
+        "平均得分": 97.67441860465117
+    },
+    "2185": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/序列元素_1578276704860.zip",
+        "作答人数": 46,
+        "平均得分": 96.19565217391305
+    },
+    "2482": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/一个简单的分数_1580476514307.zip",
+        "作答人数": 46,
+        "平均得分": 100.0
+    },
+    "2141": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/生成二进制数_1578140920564.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2184": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/差异系列_1578276411758.zip",
+        "作答人数": 46,
+        "平均得分": 100.0
+    },
+    "2140": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/卡旋转_1578140347213.zip",
+        "作答人数": 41,
+        "平均得分": 94.63414634146342
+    },
+    "2183": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/总和第N行_1578276140585.zip",
+        "作答人数": 46,
+        "平均得分": 100.0
+    },
+    "2182": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/安全游戏_1578275845234.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2181": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/X1序列_1578275363480.zip",
+        "作答人数": 46,
+        "平均得分": 100.0
+    },
+    "2614": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/索引计数_1580740517977.zip",
+        "作答人数": 46,
+        "平均得分": 100.0
+    },
+    "2558": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/计算逆转_1580627331854.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2610": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/长度总和_1580737573597.zip",
+        "作答人数": 46,
+        "平均得分": 98.26086956521739
+    },
+    "2212": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/号码不足_1578289878596.zip",
+        "作答人数": 46,
+        "平均得分": 100.0
+    },
+    "2618": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/早会_1580741639616.zip",
+        "作答人数": 40,
+        "平均得分": 100.0
+    },
+    "2617": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/包含K个的子字符串的计数_1580741312784.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2615": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/ASCII码的降序排列_1580740819534.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2494": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/翻转对_1580533703382.zip",
+        "作答人数": 134,
+        "平均得分": 100.0
+    },
+    "2373": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/斯蒂克勒小偷_1580288377900.zip",
+        "作答人数": 44,
+        "平均得分": 98.29545454545455
+    },
+    "2252": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/计数字词的出现次数_1578662468635.zip",
+        "作答人数": 45,
+        "平均得分": 96.11111111111111
+    },
+    "2395": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/简化阵列_1580309957332.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2394": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/将所有零移动到数组末尾_1580308584619.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2371": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/拯救钢铁侠_1580287906143.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2392": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/乘积相同_1580305907167.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2701": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/找出井字棋的获胜者_1580879162570.zip",
+        "作答人数": 133,
+        "平均得分": 97.18045112781955
+    },
+    "2426": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/三大候选人_1580437067105.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2425": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/查找最近的号码_1580436786414.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2424": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/寻找奇数_1580436517453.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2203": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/LJJ的字符串_1578287657460.zip",
+        "作答人数": 42,
+        "平均得分": 97.61904761904762
+    },
+    "2467": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/两个排序数组的第K个元素_1580456827109.zip",
+        "作答人数": 93,
+        "平均得分": 99.19354838709677
+    },
+    "2346": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/螺旋遍历矩阵_1580213547873.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2423": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/另一个数组的数组子集_1580436211204.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2466": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/计算可能的三角形_1580456177340.zip",
+        "作答人数": 46,
+        "平均得分": 100.0
+    },
+    "2345": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/查找缺失和重复_1580212520904.zip",
+        "作答人数": 89,
+        "平均得分": 99.62550561797752
+    },
+    "2389": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/波浪数组_1580299515242.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2344": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/旋转阵列_1580212176814.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2388": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/检查两个数组是否相等_1580299182125.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2442": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最大间距_1580447368478.zip",
+        "作答人数": 137,
+        "平均得分": 99.7080291970803
+    },
+    "2209": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/TheABCDMurderer_1578289301451.zip",
+        "作答人数": 78,
+        "平均得分": 90.51282051282051
+    },
+    "2527": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/餐厅过滤器_1580557412562.zip",
+        "作答人数": 123,
+        "平均得分": 99.45796747967479
+    },
+    "2342": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/反转K个组元素_1580211252657.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2386": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/四元素_1580295765729.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2341": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/合并时没有多余的空间_1580210956158.zip",
+        "作答人数": 44,
+        "平均得分": 99.0909090909091
+    },
+    "2340": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/困雨水_1580210588017.zip",
+        "作答人数": 89,
+        "平均得分": 98.03370786516854
+    },
+    "2283": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/对0、1和2的数组进行排序_1580044533249.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2061": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/求到达数组末端的最小移动数_1577371584339.zip",
+        "作答人数": 47,
+        "平均得分": 97.87234042553192
+    },
+    "2280": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/数组中缺少数字_1580021731174.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2438": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/颜色分类_1580444384416.zip",
+        "作答人数": 47,
+        "平均得分": 100.0
+    },
+    "2339": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Inversion of array_1580210123436.zip",
+        "作答人数": 89,
+        "平均得分": 98.6891011235955
+    },
+    "2338": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/成对元素_1580209509978.zip",
+        "作答人数": 46,
+        "平均得分": 98.3695652173913
+    },
+    "2359": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/三元组计数_1580285767832.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2358": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/k个最大元素_1580285444507.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2357": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/查找给定总和的所有对_1580281101863.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2356": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/左侧较小而右侧较大的元素_1580280620990.zip",
+        "作答人数": 44,
+        "平均得分": 98.18181818181819
+    },
+    "2279": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/给定总和的子数组_1580020054641.zip",
+        "作答人数": 45,
+        "平均得分": 98.22222222222223
+    },
+    "2498": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/按奇偶排序数组_1580536106585.zip",
+        "作答人数": 46,
+        "平均得分": 97.82608695652173
+    },
+    "2278": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Xor运算_1579951483405.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2211": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/皇室夫人的名字_1578290259363.zip",
+        "作答人数": 84,
+        "平均得分": 96.9047619047619
+    },
+    "2718": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/交换字符串中的元素_1580893832086.zip",
+        "作答人数": 174,
+        "平均得分": 97.50954022988506
+    },
+    "2463": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/两数之和 II - 输入有序数组_1580454077011.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2451": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/搜索插入位置_1580449614614.zip",
+        "作答人数": 91,
+        "平均得分": 99.56043956043956
+    },
+    "2462": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/寻找峰值_1580453368046.zip",
+        "作答人数": 44,
+        "平均得分": 99.0909090909091
+    },
+    "2461": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/寻找旋转排序数组中的最小值 II_1580453236052.zip",
+        "作答人数": 91,
+        "平均得分": 100.0
+    },
+    "2537": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/数组中的第K个最大元素_1580572732333.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2449": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/搜索旋转排序数组_1580449309410.zip",
+        "作答人数": 91,
+        "平均得分": 98.9010989010989
+    },
+    "2514": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/判断子序列_1580541391026.zip",
+        "作答人数": 91,
+        "平均得分": 98.9010989010989
+    },
+    "2445": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/有效的字母异位词_1580449365191.zip",
+        "作答人数": 94,
+        "平均得分": 97.02127659574468
+    },
+    "2741": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最长连续递增序列_1580964533662.zip",
+        "作答人数": 150,
+        "平均得分": 99.33333333333333
+    },
+    "2542": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最长连续序列_1580575865453.zip",
+        "作答人数": 151,
+        "平均得分": 99.33774834437087
+    },
+    "2454": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/寻找旋转排序数组中的最小值_1580450812181.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2465": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/H指数 II_1580454989013.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2453": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/搜索旋转排序数组 II_1580450621478.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2464": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/长度最小的子数组_1580454672018.zip",
+        "作答人数": 90,
+        "平均得分": 99.55555555555556
+    },
+    "2506": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最长上升子序列_1580538307961.zip",
+        "作答人数": 91,
+        "平均得分": 100.0
+    },
+    "2505": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/寻找重复数_1580538174683.zip",
+        "作答人数": 46,
+        "平均得分": 99.1304347826087
+    },
+    "2535": {
+        "题目类型": "排序算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最多能完成排序的块_1580566432492.zip",
+        "作答人数": 152,
+        "平均得分": 99.34210526315789
+    },
+    "2534": {
+        "题目类型": "排序算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/合并K个排序数组_1580565261018.zip",
+        "作答人数": 105,
+        "平均得分": 100.0
+    },
+    "2412": {
+        "题目类型": "排序算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/循环排序_1580375704830.zip",
+        "作答人数": 35,
+        "平均得分": 97.14285714285714
+    },
+    "2444": {
+        "题目类型": "排序算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/存在重复元素_1580448429544.zip",
+        "作答人数": 121,
+        "平均得分": 99.72454545454545
+    },
+    "2387": {
+        "题目类型": "排序算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/局部排序_1580299140510.zip",
+        "作答人数": 128,
+        "平均得分": 96.875
+    },
+    "2441": {
+        "题目类型": "排序算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/排序链表_1580446556918.zip",
+        "作答人数": 88,
+        "平均得分": 100.0
+    },
+    "2396": {
+        "题目类型": "排序算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/排序机械臂_1580358588714.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2440": {
+        "题目类型": "排序算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/对链表进行插入排序_1580446182840.zip",
+        "作答人数": 134,
+        "平均得分": 100.0
+    },
+    "2152": {
+        "题目类型": "排序算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/魔方俱乐部_1578209813393.zip",
+        "作答人数": 71,
+        "平均得分": 100.0
+    },
+    "2490": {
+        "题目类型": "排序算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/两个数组的交集_1580487351779.zip",
+        "作答人数": 88,
+        "平均得分": 100.0
+    },
+    "2070": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Pow(x, n)_1577688408110.zip",
+        "作答人数": 46,
+        "平均得分": 100.0
+    },
+    "2111": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/丑数 II_1578051262854.zip",
+        "作答人数": 46,
+        "平均得分": 100.0
+    },
+    "2099": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Excel表列序号_1578048275379.zip",
+        "作答人数": 46,
+        "平均得分": 100.0
+    },
+    "2110": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/丑数_1578051147092.zip",
+        "作答人数": 46,
+        "平均得分": 100.0
+    },
+    "2153": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/整数反转_1577412407681.zip",
+        "作答人数": 91,
+        "平均得分": 100.0
+    },
+    "2098": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/ Excel表列名称_1578048149469.zip",
+        "作答人数": 46,
+        "平均得分": 100.0
+    },
+    "2097": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/分数到小数_1578047845852.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2096": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/x 的平方根_1578047147585.zip",
+        "作答人数": 47,
+        "平均得分": 100.0
+    },
+    "2095": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/ 二进制求和_1578046703759.zip",
+        "作答人数": 46,
+        "平均得分": 100.0
+    },
+    "2094": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/有效数字_1578046417861.zip",
+        "作答人数": 45,
+        "平均得分": 99.44444444444444
+    },
+    "2093": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/第k个排列_1577688544639.zip",
+        "作答人数": 47,
+        "平均得分": 100.0
+    },
+    "2108": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/数字 1 的个数_1578050473039.zip",
+        "作答人数": 46,
+        "平均得分": 100.0
+    },
+    "2106": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/基本计算器_1578050148042.zip",
+        "作答人数": 46,
+        "平均得分": 100.0
+    },
+    "2127": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/超级次方_1578119933462.zip",
+        "作答人数": 48,
+        "平均得分": 100.0
+    },
+    "2105": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/矩形面积_1578049968361.zip",
+        "作答人数": 45,
+        "平均得分": 97.77777777777777
+    },
+    "2069": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字符串相乘_1577687896817.zip",
+        "作答人数": 47,
+        "平均得分": 100.0
+    },
+    "2068": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/两数相除_1577685525513.zip",
+        "作答人数": 47,
+        "平均得分": 100.0
+    },
+    "2109": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/各位相加_1578051032564.zip",
+        "作答人数": 46,
+        "平均得分": 100.0
+    },
+    "2067": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/整数转罗马数字_1577685311995.zip",
+        "作答人数": 46,
+        "平均得分": 100.0
+    },
+    "2584": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Nim 游戏_1580703874230.zip",
+        "作答人数": 110,
+        "平均得分": 100.0
+    },
+    "2100": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/阶乘后的零_1578048826487.zip",
+        "作答人数": 47,
+        "平均得分": 100.0
+    },
+    "2122": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/水壶问题_1578056371391.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2121": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/ 计算各个位数不同的数字个数_1578056187275.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2065": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字符串转换整数_1577685079613.zip",
+        "作答人数": 47,
+        "平均得分": 100.0
+    },
+    "2120": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/整数拆分_1578055217390.zip",
+        "作答人数": 45,
+        "平均得分": 99.25933333333333
+    },
+    "2064": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/罗马数字转整数_1577682190777.zip",
+        "作答人数": 47,
+        "平均得分": 100.0
+    },
+    "2063": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/回文数_1577681657900.zip",
+        "作答人数": 47,
+        "平均得分": 100.0
+    },
+    "2117": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/灯泡开关_1578053846249.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2116": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/超级丑数_1578053720076.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2114": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/完全平方数_1578052819098.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2113": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/整数转换英文表示_1578052667053.zip",
+        "作答人数": 40,
+        "平均得分": 95.0
+    },
+    "2134": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/可怜的小猪_1578123873409.zip",
+        "作答人数": 47,
+        "平均得分": 100.0
+    },
+    "2080": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/广度优先遍历图_1577867780412.zip",
+        "作答人数": 41,
+        "平均得分": 95.1219512195122
+    },
+    "2088": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/图论-黑暗前的幻想乡_1577955445107.zip",
+        "作答人数": 28,
+        "平均得分": 93.92857142857143
+    },
+    "2087": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/图论-子集_1577951232283.zip",
+        "作答人数": 34,
+        "平均得分": 89.30470588235293
+    },
+    "2086": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/图论-最小生成树_1577949397932.zip",
+        "作答人数": 36,
+        "平均得分": 100.0
+    },
+    "2085": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/图论-最小树形图_1577912182462.zip",
+        "作答人数": 36,
+        "平均得分": 94.44444444444444
+    },
+    "2084": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/图论-非负权单源最短路_1577907780571.zip",
+        "作答人数": 37,
+        "平均得分": 94.32432432432432
+    },
+    "2196": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Samjia和矩阵_1578283732786.zip",
+        "作答人数": 35,
+        "平均得分": 87.42857142857143
+    },
+    "2178": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/生成魔咒_1578244508151.zip",
+        "作答人数": 78,
+        "平均得分": 93.58974358974359
+    },
+    "2592": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/矩形围成一圈_1580709242736.zip",
+        "作答人数": 41,
+        "平均得分": 96.95121951219512
+    },
+    "2193": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/事情的相似度_1578283308031.zip",
+        "作答人数": 42,
+        "平均得分": 91.2695238095238
+    },
+    "2397": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/排序二叉树_1580361571717.zip",
+        "作答人数": 90,
+        "平均得分": 91.66666666666667
+    },
+    "2174": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/The Bridge on the River Kawaii_1578231113186.zip",
+        "作答人数": 68,
+        "平均得分": 81.17647058823529
+    },
+    "2115": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/染色_1578054196824.zip",
+        "作答人数": 62,
+        "平均得分": 86.02161290322582
+    },
+    "2390": {
+        "题目类型": "排序算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/排序交换_1580303259115.zip",
+        "作答人数": 34,
+        "平均得分": 97.94117647058823
+    },
+    "2126": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最大整除子集_1578119645442.zip",
+        "作答人数": 43,
+        "平均得分": 100.0
+    },
+    "2119": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/路径交叉_1578055074509.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2253": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/二逼平衡树_1578919897355.zip",
+        "作答人数": 32,
+        "平均得分": 95.8334375
+    },
+    "2296": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/指定累加和的最长路径长度_1580113272457.zip",
+        "作答人数": 65,
+        "平均得分": 98.84615384615384
+    },
+    "2295": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/节点的最近公共祖先_1580112448789.zip",
+        "作答人数": 38,
+        "平均得分": 96.84210526315789
+    },
+    "2273": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/苹果树_1579408051351.zip",
+        "作答人数": 52,
+        "平均得分": 95.0
+    },
+    "2151": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/生成树求和_1578205904961.zip",
+        "作答人数": 56,
+        "平均得分": 100.0
+    },
+    "2291": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/哈夫曼树_1580100517952.zip",
+        "作答人数": 30,
+        "平均得分": 100.0
+    },
+    "2304": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/按层和ZigZag打印二叉树_1580185968180.zip",
+        "作答人数": 77,
+        "平均得分": 95.77922077922078
+    },
+    "2149": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/寻找 LCT_1578201870059.zip",
+        "作答人数": 51,
+        "平均得分": 92.15705882352941
+    },
+    "2301": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字典树的实现_1580184504148.zip",
+        "作答人数": 28,
+        "平均得分": 95.23785714285714
+    },
+    "2289": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/根据后序数组重建搜索二叉树_1580098878495.zip",
+        "作答人数": 27,
+        "平均得分": 95.55555555555556
+    },
+    "2168": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/求权值和最小的边集的子集_1578216688887.zip",
+        "作答人数": 55,
+        "平均得分": 89.54545454545455
+    },
+    "2300": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/二叉树遍历_1580183600465.zip",
+        "作答人数": 31,
+        "平均得分": 98.70967741935483
+    },
+    "2266": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/独特的树叶_1579277545959.zip",
+        "作答人数": 29,
+        "平均得分": 90.22965517241379
+    },
+    "2288": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/二叉树_1580096769533.zip",
+        "作答人数": 27,
+        "平均得分": 93.82703703703703
+    },
+    "2167": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/graph_1578215353563.zip",
+        "作答人数": 58,
+        "平均得分": 100.0
+    },
+    "2308": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/后继节点_1580191919549.zip",
+        "作答人数": 76,
+        "平均得分": 94.95618421052632
+    },
+    "2406": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/冒泡排序_1580373360926.zip",
+        "作答人数": 60,
+        "平均得分": 87.22250000000001
+    },
+    "2286": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/剩下的树_1580095104872.zip",
+        "作答人数": 30,
+        "平均得分": 100.0
+    },
+    "2383": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/树的分解_1580293890501.zip",
+        "作答人数": 29,
+        "平均得分": 89.65517241379311
+    },
+    "2415": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/加分二叉树_1580380851328.zip",
+        "作答人数": 60,
+        "平均得分": 95.33333333333333
+    },
+    "2315": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/树的高度_1580196496265.zip",
+        "作答人数": 38,
+        "平均得分": 97.89473684210526
+    },
+    "2237": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/文艺平衡树_1578645862113.zip",
+        "作答人数": 37,
+        "平均得分": 99.32432432432432
+    },
+    "2236": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/普通平衡树_1578640784521.zip",
+        "作答人数": 34,
+        "平均得分": 94.11735294117646
+    },
+    "2312": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/统计和生成所有不同的二叉树_1580194109335.zip",
+        "作答人数": 38,
+        "平均得分": 96.71052631578948
+    },
+    "2378": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/局域网_1580291840631.zip",
+        "作答人数": 66,
+        "平均得分": 96.96969696969697
+    },
+    "2311": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/求和树_1580193300037.zip",
+        "作答人数": 34,
+        "平均得分": 92.6470588235294
+    },
+    "2299": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/二叉搜索树_1580182725545.zip",
+        "作答人数": 32,
+        "平均得分": 92.5
+    },
+    "2439": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/异或_1580444503050.zip",
+        "作答人数": 69,
+        "平均得分": 96.3768115942029
+    },
+    "2091": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/二分图匹配超级英雄_1578039155099.zip",
+        "作答人数": 26,
+        "平均得分": 90.38461538461539
+    },
+    "2090": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/图论-网络_1578038135945.zip",
+        "作答人数": 26,
+        "平均得分": 97.11538461538461
+    },
+    "2089": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/图论-最短路径树问题_1578031111112.zip",
+        "作答人数": 27,
+        "平均得分": 97.03703703703704
+    },
+    "2139": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/道路阻断_1578135605089.zip",
+        "作答人数": 25,
+        "平均得分": 100.0
+    },
+    "2104": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/图论-信息传递_1578042452221.zip",
+        "作答人数": 30,
+        "平均得分": 94.07400000000001
+    },
+    "2103": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/图论-求和_1578049734380.zip",
+        "作答人数": 26,
+        "平均得分": 85.57692307692308
+    },
+    "2124": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/反色游戏_1578066842899.zip",
+        "作答人数": 24,
+        "平均得分": 95.83333333333333
+    },
+    "2309": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Misaka Network 与测试_1580191959777.zip",
+        "作答人数": 38,
+        "平均得分": 98.35526315789474
+    },
+    "2791": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/谭雅爬楼梯_1581073789973.zip",
+        "作答人数": 50,
+        "平均得分": 100.0
+    },
+    "2790": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/小于或等于查询_1581073313718.zip",
+        "作答人数": 50,
+        "平均得分": 99.0
+    },
+    "2789": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/正方形屋顶_1581074097397.zip",
+        "作答人数": 49,
+        "平均得分": 96.73469387755102
+    },
+    "2800": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/递增序列_1581072499330.zip",
+        "作答人数": 50,
+        "平均得分": 100.0
+    },
+    "2822": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/纸牌游戏_1581073210563.zip",
+        "作答人数": 48,
+        "平均得分": 98.54166666666667
+    },
+    "2821": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/塞雷贾和迪玛_1581072839504.zip",
+        "作答人数": 51,
+        "平均得分": 100.0
+    },
+    "2820": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/瓦莱拉的咖啡店_1581072646484.zip",
+        "作答人数": 51,
+        "平均得分": 98.62745098039215
+    },
+    "2809": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/连木棍成树_1581074110559.zip",
+        "作答人数": 49,
+        "平均得分": 100.0
+    },
+    "2808": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/交换元素_1581073392675.zip",
+        "作答人数": 49,
+        "平均得分": 100.0
+    },
+    "2829": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/数组的稳定性_1581073880823.zip",
+        "作答人数": 50,
+        "平均得分": 100.0
+    },
+    "2807": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Neko打开藏宝箱_1581073975701.zip",
+        "作答人数": 49,
+        "平均得分": 100.0
+    },
+    "2806": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/达夫喜欢吃肉_1581073300778.zip",
+        "作答人数": 50,
+        "平均得分": 99.6
+    },
+    "2828": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/跳塔手游_1581073038643.zip",
+        "作答人数": 49,
+        "平均得分": 100.0
+    },
+    "2827": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/重力盒子_1581072866717.zip",
+        "作答人数": 51,
+        "平均得分": 100.0
+    },
+    "2805": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最长连续上升子序列_1581073437935.zip",
+        "作答人数": 51,
+        "平均得分": 98.62745098039215
+    },
+    "2826": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/卓越奖章_1581073193760.zip",
+        "作答人数": 49,
+        "平均得分": 99.79591836734694
+    },
+    "2825": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Smith的排名_1581073803765.zip",
+        "作答人数": 51,
+        "平均得分": 100.0
+    },
+    "2847": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/瓦西亚的梦想_1581072522067.zip",
+        "作答人数": 50,
+        "平均得分": 100.0
+    },
+    "2803": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/点亮路灯_1581073345777.zip",
+        "作答人数": 51,
+        "平均得分": 98.43137254901961
+    },
+    "2846": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Nastya的密码锁_1581073681095.zip",
+        "作答人数": 50,
+        "平均得分": 100.0
+    },
+    "2802": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/分糖果_1581072938846.zip",
+        "作答人数": 50,
+        "平均得分": 100.0
+    },
+    "2812": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/信息学奥林匹克_1581073612068.zip",
+        "作答人数": 51,
+        "平均得分": 99.2156862745098
+    },
+    "2811": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/DZY喜欢哈希_1581072926717.zip",
+        "作答人数": 52,
+        "平均得分": 97.88461538461539
+    },
+    "2833": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/倒可乐_1581073553640.zip",
+        "作答人数": 50,
+        "平均得分": 99.6
+    },
+    "2799": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/赌场出价_1581073272339.zip",
+        "作答人数": 49,
+        "平均得分": 97.75510204081633
+    },
+    "2810": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/准二进制_1581073150345.zip",
+        "作答人数": 46,
+        "平均得分": 98.47826086956522
+    },
+    "2798": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/一分为三_1581073051896.zip",
+        "作答人数": 44,
+        "平均得分": 97.27272727272727
+    },
+    "2795": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最小的非负整数D_1581073987103.zip",
+        "作答人数": 50,
+        "平均得分": 98.6
+    },
+    "2794": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/书架上找书_1581073090156.zip",
+        "作答人数": 47,
+        "平均得分": 99.57446808510639
+    },
+    "2818": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/德武是个笨蛋_1581072911182.zip",
+        "作答人数": 51,
+        "平均得分": 99.80392156862744
+    },
+    "2839": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/名字列表_1581073542890.zip",
+        "作答人数": 50,
+        "平均得分": 100.0
+    },
+    "2817": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/三人游戏组_1581073624711.zip",
+        "作答人数": 49,
+        "平均得分": 98.36734693877551
+    },
+    "2816": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/黑板上的数字_1581073669447.zip",
+        "作答人数": 49,
+        "平均得分": 99.79591836734694
+    },
+    "2814": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/排队购物_1581073182114.zip",
+        "作答人数": 49,
+        "平均得分": 100.0
+    },
+    "2813": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/纸牌游戏获胜者_1581072461937.zip",
+        "作答人数": 49,
+        "平均得分": 97.55102040816327
+    },
+    "2793": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/疯狂的计算机_1581073465031.zip",
+        "作答人数": 43,
+        "平均得分": 99.61232558139535
+    },
+    "2792": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/谭雅爬楼梯_1581073789973.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2801": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/线段组三角形_1581073500608.zip",
+        "作答人数": 44,
+        "平均得分": 97.95454545454545
+    },
+    "2788": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/舞会组队_1581073111769.zip",
+        "作答人数": 43,
+        "平均得分": 99.53488372093024
+    },
+    "2787": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/构建排列_1581072746087.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2786": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Polycarp的编程训练_1581074006924.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2797": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/观测月亮_1581073475517.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2785": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/油箱上的密码锁_1581073894055.zip",
+        "作答人数": 45,
+        "平均得分": 98.88888888888889
+    },
+    "2796": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最大非完全平方数_1581073584017.zip",
+        "作答人数": 44,
+        "平均得分": 97.72727272727273
+    },
+    "2784": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/比亚莱钦斯克国的选举_1581073240388.zip",
+        "作答人数": 42,
+        "平均得分": 97.61904761904762
+    },
+    "2783": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/纸牌游戏获胜者_1581072461937.zip",
+        "作答人数": 47,
+        "平均得分": 95.95744680851064
+    },
+    "2819": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/小组出游_1581072579300.zip",
+        "作答人数": 90,
+        "平均得分": 98.44444444444444
+    },
+    "2815": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/乘积为一_1581074075172.zip",
+        "作答人数": 86,
+        "平均得分": 100.0
+    },
+    "2870": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/和为偶数的最大值_1581073374647.zip",
+        "作答人数": 42,
+        "平均得分": 98.0952380952381
+    },
+    "2867": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/优雅的矩阵_1581072692227.zip",
+        "作答人数": 42,
+        "平均得分": 98.57142857142857
+    },
+    "2845": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/笔记本电脑价格_1581073009686.zip",
+        "作答人数": 42,
+        "平均得分": 92.38095238095238
+    },
+    "2823": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/整除数列_1581072882620.zip",
+        "作答人数": 38,
+        "平均得分": 95.26315789473684
+    },
+    "2844": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/瓦莱拉的阅读时间_1581072730318.zip",
+        "作答人数": 42,
+        "平均得分": 94.04761904761905
+    },
+    "2866": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/坚果巧克力棒_1581073360126.zip",
+        "作答人数": 42,
+        "平均得分": 97.85714285714286
+    },
+    "2865": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/U盘_1581073327513.zip",
+        "作答人数": 42,
+        "平均得分": 98.0952380952381
+    },
+    "2843": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/还原序列_1581073451742.zip",
+        "作答人数": 42,
+        "平均得分": 97.85714285714286
+    },
+    "2864": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/删除元素_1581072998607.zip",
+        "作答人数": 40,
+        "平均得分": 89.25
+    },
+    "2842": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/聚会分组_1581072536064.zip",
+        "作答人数": 37,
+        "平均得分": 98.37837837837837
+    },
+    "2863": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/佩奇和他的小伙伴_1581073404345.zip",
+        "作答人数": 42,
+        "平均得分": 98.33333333333333
+    },
+    "2840": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/罗玛的幸运数字_1581072677808.zip",
+        "作答人数": 42,
+        "平均得分": 98.57142857142857
+    },
+    "2861": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/组队比赛_1581073866270.zip",
+        "作答人数": 42,
+        "平均得分": 98.0952380952381
+    },
+    "2849": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Ksusha的数组_1581072757684.zip",
+        "作答人数": 42,
+        "平均得分": 99.52380952380952
+    },
+    "2848": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/两个数组_1581073257042.zip",
+        "作答人数": 42,
+        "平均得分": 97.61904761904762
+    },
+    "2868": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/移动卡片_1581074086016.zip",
+        "作答人数": 42,
+        "平均得分": 97.85714285714286
+    },
+    "2824": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/转移监狱_1581072897878.zip",
+        "作答人数": 41,
+        "平均得分": 98.53658536585365
+    },
+    "2834": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/选择题总分_1581074033492.zip",
+        "作答人数": 41,
+        "平均得分": 98.53658536585365
+    },
+    "2877": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/划分序列_1581073639959.zip",
+        "作答人数": 42,
+        "平均得分": 96.66666666666667
+    },
+    "2855": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/XO棋盘_1581073023745.zip",
+        "作答人数": 42,
+        "平均得分": 99.20642857142857
+    },
+    "2854": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/熊大象还是四不像_1581073065926.zip",
+        "作答人数": 42,
+        "平均得分": 98.33333333333333
+    },
+    "2832": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/侦探小说_1581073948252.zip",
+        "作答人数": 42,
+        "平均得分": 97.38095238095238
+    },
+    "2875": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/谁的礼物_1581072563644.zip",
+        "作答人数": 42,
+        "平均得分": 98.57142857142857
+    },
+    "2831": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/地铁环线_1581072720104.zip",
+        "作答人数": 42,
+        "平均得分": 98.57142857142857
+    },
+    "2853": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/奥尔加偷饼干_1581072552500.zip",
+        "作答人数": 42,
+        "平均得分": 98.57142857142857
+    },
+    "2830": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/整数n以b为底的k位数_1581073924133.zip",
+        "作答人数": 41,
+        "平均得分": 98.78048780487805
+    },
+    "2852": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/阿卡迪买寿司_1581073937026.zip",
+        "作答人数": 40,
+        "平均得分": 98.25
+    },
+    "2873": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/逃脱房间_1581073691372.zip",
+        "作答人数": 42,
+        "平均得分": 98.0952380952381
+    },
+    "2851": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/覆盖所有点_1581073827363.zip",
+        "作答人数": 42,
+        "平均得分": 98.57142857142857
+    },
+    "2872": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/桌上的石头_1581072705771.zip",
+        "作答人数": 42,
+        "平均得分": 98.57142857142857
+    },
+    "2850": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Lahub的小游戏_1581072784929.zip",
+        "作答人数": 42,
+        "平均得分": 96.66666666666667
+    },
+    "2838": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/鲍勃的寒假作业_1581073911432.zip",
+        "作答人数": 42,
+        "平均得分": 96.9047619047619
+    },
+    "2859": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/方格纸_1581072853921.zip",
+        "作答人数": 42,
+        "平均得分": 97.38095238095238
+    },
+    "2837": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Mislove丢失的数组_1581074062335.zip",
+        "作答人数": 42,
+        "平均得分": 98.0952380952381
+    },
+    "2836": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/非降序排序_1581072969748.zip",
+        "作答人数": 42,
+        "平均得分": 96.19047619047619
+    },
+    "2858": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/表格中的最大值_1581073123919.zip",
+        "作答人数": 42,
+        "平均得分": 98.0952380952381
+    },
+    "2835": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/用0和5组数_1581072827808.zip",
+        "作答人数": 42,
+        "平均得分": 93.80952380952381
+    },
+    "2857": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/数组公约数_1581074048857.zip",
+        "作答人数": 40,
+        "平均得分": 89.25
+    },
+    "2891": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/平等日_1581073487794.zip",
+        "作答人数": 54,
+        "平均得分": 100.0
+    },
+    "2890": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/意大利炮_1581073137349.zip",
+        "作答人数": 47,
+        "平均得分": 89.598085106383
+    },
+    "2889": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/小瓦西亚的橙汁_1581072608568.zip",
+        "作答人数": 54,
+        "平均得分": 100.0
+    },
+    "2922": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/菲利亚的作业_1581228772217.zip",
+        "作答人数": 53,
+        "平均得分": 93.20754716981132
+    },
+    "2888": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Eugeny的数组_1581072772427.zip",
+        "作答人数": 47,
+        "平均得分": 90.2127659574468
+    },
+    "2921": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/小Polo的整数矩阵_1581228730021.zip",
+        "作答人数": 47,
+        "平均得分": 94.46808510638297
+    },
+    "2887": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/系统管理员_1581072661852.zip",
+        "作答人数": 55,
+        "平均得分": 93.0909090909091
+    },
+    "2920": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/划分k个子序列_1581228749750.zip",
+        "作答人数": 45,
+        "平均得分": 100.0
+    },
+    "2886": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/袜子配对_1581073518778.zip",
+        "作答人数": 53,
+        "平均得分": 100.0
+    },
+    "2885": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/合并数组_1581074019027.zip",
+        "作答人数": 47,
+        "平均得分": 100.0
+    },
+    "2841": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/或和异或运算_1581072811448.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2884": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/侦察单位_1581072510697.zip",
+        "作答人数": 56,
+        "平均得分": 100.0
+    },
+    "2862": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/删除元素_1581073963245.zip",
+        "作答人数": 49,
+        "平均得分": 100.0
+    },
+    "2883": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/寻找黑色子矩阵_1581073815340.zip",
+        "作答人数": 53,
+        "平均得分": 100.0
+    },
+    "2882": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/单峰数组_1581073531885.zip",
+        "作答人数": 57,
+        "平均得分": 96.66666666666667
+    },
+    "2860": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/百特学滑雪_1581072631543.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2929": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/压缩歌曲_1581228937049.zip",
+        "作答人数": 48,
+        "平均得分": 99.79166666666667
+    },
+    "2928": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/油漆写数字_1581228900999.zip",
+        "作答人数": 48,
+        "平均得分": 99.16666666666667
+    },
+    "2927": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/范围技能_1581228977774.zip",
+        "作答人数": 46,
+        "平均得分": 97.82608695652173
+    },
+    "2926": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/波利卡普的口袋_1581228880388.zip",
+        "作答人数": 47,
+        "平均得分": 100.0
+    },
+    "2925": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/隧道超车_1581228842252.zip",
+        "作答人数": 47,
+        "平均得分": 97.87234042553192
+    },
+    "2869": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/删除重复元素_1581073654805.zip",
+        "作答人数": 53,
+        "平均得分": 100.0
+    },
+    "2924": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/学术奖学金_1581228816736.zip",
+        "作答人数": 46,
+        "平均得分": 100.0
+    },
+    "2923": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最大区间询问和_1581228791179.zip",
+        "作答人数": 43,
+        "平均得分": 99.06976744186046
+    },
+    "2881": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/绘制水晶矿_1581072953859.zip",
+        "作答人数": 56,
+        "平均得分": 100.0
+    },
+    "2880": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/小丑海盗船_1581073706174.zip",
+        "作答人数": 55,
+        "平均得分": 93.0909090909091
+    },
+    "2878": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/花园浇花_1581073598184.zip",
+        "作答人数": 56,
+        "平均得分": 98.39285714285714
+    },
+    "2856": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/伐木工的故事_1581073165953.zip",
+        "作答人数": 47,
+        "平均得分": 100.0
+    },
+    "2911": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/散播谣言_1581228516990.zip",
+        "作答人数": 46,
+        "平均得分": 98.26086956521739
+    },
+    "2910": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/旋转矩形_1581228489603.zip",
+        "作答人数": 48,
+        "平均得分": 95.41666666666667
+    },
+    "2876": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/断掉电闸_1581073841133.zip",
+        "作答人数": 50,
+        "平均得分": 97.6
+    },
+    "2930": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/局部极值_1581228953640.zip",
+        "作答人数": 54,
+        "平均得分": 98.65314814814816
+    },
+    "2874": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/瓦西亚的假期_1581073424324.zip",
+        "作答人数": 48,
+        "平均得分": 98.95833333333333
+    },
+    "2871": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/划分三人团队_1581073569157.zip",
+        "作答人数": 54,
+        "平均得分": 98.70370370370371
+    },
+    "2918": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/堆盒子_1581228673435.zip",
+        "作答人数": 38,
+        "平均得分": 98.42105263157895
+    },
+    "2917": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/曼哈顿距离和欧式距离_1581228650110.zip",
+        "作答人数": 48,
+        "平均得分": 98.54166666666667
+    },
+    "2916": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/删去它_1581228633638.zip",
+        "作答人数": 47,
+        "平均得分": 97.87234042553192
+    },
+    "2915": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/选择问题集_1581228609313.zip",
+        "作答人数": 49,
+        "平均得分": 97.55102040816327
+    },
+    "2914": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/单推_1581229020716.zip",
+        "作答人数": 48,
+        "平均得分": 93.125
+    },
+    "2913": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/全为零的数组_1581228537079.zip",
+        "作答人数": 54,
+        "平均得分": 98.88888888888889
+    },
+    "2879": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/铺设沥青_1581073286747.zip",
+        "作答人数": 47,
+        "平均得分": 99.57446808510639
+    },
+    "2909": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/子串的最大出现次数_1581145134209.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2900": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/标题统计_1581143773187.zip",
+        "作答人数": 41,
+        "平均得分": 98.04878048780488
+    },
+    "2955": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字串距离_1581051697975.zip",
+        "作答人数": 34,
+        "平均得分": 97.05882352941177
+    },
+    "2898": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最小二进制树_1581143385017.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2985": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/小明的字符串_1580987141602.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2952": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/打字机_1581059485700.zip",
+        "作答人数": 42,
+        "平均得分": 98.92857142857143
+    },
+    "2896": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/匿名信_1581143146440.zip",
+        "作答人数": 39,
+        "平均得分": 97.43589743589743
+    },
+    "2740": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最小时间差_1580963734144.zip",
+        "作答人数": 97,
+        "平均得分": 100.0
+    },
+    "2906": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/密码_1581144693019.zip",
+        "作答人数": 40,
+        "平均得分": 100.0
+    },
+    "2904": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/数字反转_1581144253974.zip",
+        "作答人数": 41,
+        "平均得分": 98.04878048780488
+    },
+    "2947": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/文字处理软件_1581065717984.zip",
+        "作答人数": 43,
+        "平均得分": 98.25581395348837
+    },
+    "2958": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字符串折叠_1581049740874.zip",
+        "作答人数": 33,
+        "平均得分": 96.36363636363636
+    },
+    "2934": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/外星密码_1581090398054.zip",
+        "作答人数": 37,
+        "平均得分": 100.0
+    },
+    "2747": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/单词接龙_1580969942814.zip",
+        "作答人数": 74,
+        "平均得分": 95.94594594594595
+    },
+    "2671": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/连续1的字符串_1580805424588.zip",
+        "作答人数": 40,
+        "平均得分": 100.0
+    },
+    "2197": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/幸存者_1578284497351.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2195": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/设置位的素数_1578283696376.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2194": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/查找范围内的质数_1578283354691.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2192": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/模式输出_1578282759841.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2207": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/求和问题_1578288633145.zip",
+        "作答人数": 42,
+        "平均得分": 98.41285714285715
+    },
+    "2669": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/打印数字N的所有按位子集_1580805065326.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2206": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/递归序列_1578288300993.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2668": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/换位_1580804503329.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2205": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/握手_1578288055903.zip",
+        "作答人数": 40,
+        "平均得分": 98.3335
+    },
+    "2667": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Midori和巧克力_1580804294766.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2204": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/在不使用循环的情况下打印1至n_1578287726814.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2665": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/点球射手_1580802819951.zip",
+        "作答人数": 40,
+        "平均得分": 100.0
+    },
+    "2202": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/瓷砖地板_1578287439176.zip",
+        "作答人数": 40,
+        "平均得分": 100.0
+    },
+    "2543": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/每个窗口大小的最小值最大值_1580612130447.zip",
+        "作答人数": 37,
+        "平均得分": 100.0
+    },
+    "2201": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/笔的集合_1578287223174.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2662": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/无符号整数的奇偶校验_1580801817258.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2189": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/下一个快乐号码_1578277507574.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2562": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/邮件系统设计_1580630037106.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2661": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/XOR计数零和一_1580801594198.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2187": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/大小为K的最大和子数组_1578277243017.zip",
+        "作答人数": 43,
+        "平均得分": 100.0
+    },
+    "2658": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/因子或倍数_1580801077556.zip",
+        "作答人数": 40,
+        "平均得分": 100.0
+    },
+    "2656": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最右边的不同位_1580800895291.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2655": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/2的最小乘方大于或等于n_1580800690663.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2653": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/医生诊所_1580800339802.zip",
+        "作答人数": 40,
+        "平均得分": 98.75
+    },
+    "2651": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/交换所有奇数和偶数位_1580799952889.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2673": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/格雷码_1580817957555.zip",
+        "作答人数": 40,
+        "平均得分": 98.75
+    },
+    "2659": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/神秘入学_1580801312211.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2430": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/与给定总和配对_1580438191706.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2692": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/在D天内送达包裹的能力_1580874859216.zip",
+        "作答人数": 90,
+        "平均得分": 97.77777777777777
+    },
+    "2372": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最大小费计算器_1580288148526.zip",
+        "作答人数": 43,
+        "平均得分": 98.83720930232558
+    },
+    "2293": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/第K个最小元素_1580109594698.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2427": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/第一个重复元素_1580437378950.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2602": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最长重复子数组_1580720206268.zip",
+        "作答人数": 47,
+        "平均得分": 100.0
+    },
+    "2468": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/产品阵列拼图_1580457067213.zip",
+        "作答人数": 47,
+        "平均得分": 97.87234042553192
+    },
+    "2523": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/将矩阵按对角线排序_1580549384180.zip",
+        "作答人数": 87,
+        "平均得分": 98.27586206896552
+    },
+    "2489": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/区间和的个数_1580486690550.zip",
+        "作答人数": 91,
+        "平均得分": 99.45054945054945
+    },
+    "2522": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/数组的相对排序_1580548609480.zip",
+        "作答人数": 90,
+        "平均得分": 100.0
+    },
+    "2500": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/煎饼排序_1580536886059.zip",
+        "作答人数": 89,
+        "平均得分": 97.75280898876404
+    },
+    "2564": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/找到 K 个最接近的元素_1580650666137.zip",
+        "作答人数": 47,
+        "平均得分": 100.0
+    },
+    "2729": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/有序数组中的单一元素_1580915348024.zip",
+        "作答人数": 91,
+        "平均得分": 99.34065934065934
+    },
+    "2528": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/排序数组_1580558883444.zip",
+        "作答人数": 149,
+        "平均得分": 99.77630872483222
+    },
+    "2429": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最大差异_1580437950135.zip",
+        "作答人数": 41,
+        "平均得分": 99.02439024390245
+    },
+    "2428": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/按特定顺序排序_1580437712883.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2285": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/股票买卖_1580047319873.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2284": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最大指数_1580046606337.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2282": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最低平台_1580024000547.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2436": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/插入区间_1580443668890.zip",
+        "作答人数": 47,
+        "平均得分": 100.0
+    },
+    "2533": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/按奇偶排序数组_1580564065778.zip",
+        "作答人数": 106,
+        "平均得分": 99.24528301886792
+    },
+    "2433": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/合并区间_1580442408086.zip",
+        "作答人数": 93,
+        "平均得分": 97.84946236559139
+    },
+    "2739": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/组合总和_1580963138005.zip",
+        "作答人数": 104,
+        "平均得分": 99.67951923076923
+    },
+    "2738": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最大矩形_1580962725356.zip",
+        "作答人数": 95,
+        "平均得分": 98.94736842105263
+    },
+    "2737": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/求众数_1580962152405.zip",
+        "作答人数": 148,
+        "平均得分": 98.51351351351352
+    },
+    "2539": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最短无序连续子数组_1580574417774.zip",
+        "作答人数": 102,
+        "平均得分": 98.82352941176471
+    },
+    "2148": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/软件补丁_1578159124595.zip",
+        "作答人数": 31,
+        "平均得分": 94.19354838709677
+    },
+    "2125": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Vera与道路建设_1578115776549.zip",
+        "作答人数": 26,
+        "平均得分": 96.15384615384616
+    },
+    "2147": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/价目表_1578156171240.zip",
+        "作答人数": 31,
+        "平均得分": 95.8525806451613
+    },
+    "2146": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/大中锋的游乐场_1578143781700.zip",
+        "作答人数": 35,
+        "平均得分": 98.57142857142857
+    },
+    "2220": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/EntropyIncreaser与山林_1578297668376.zip",
+        "作答人数": 27,
+        "平均得分": 93.51851851851852
+    },
+    "2150": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/送外卖_1578203256483.zip",
+        "作答人数": 27,
+        "平均得分": 97.03703703703704
+    },
+    "2133": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最小移动次数使数组元素相等_1578123420525.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2155": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/求到达数组末端的最小移动数_1577371584339.zip",
+        "作答人数": 42,
+        "平均得分": 97.61904761904762
+    },
+    "2154": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/回文数_1577681657900.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2132": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/从英文中重建数字_1578122858262.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2230": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/到达终点_1578299925520.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2131": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/等差数列划分_1578120714520.zip",
+        "作答人数": 40,
+        "平均得分": 100.0
+    },
+    "2130": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/第N个数字_1578120535540.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2107": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/ 2的幂_1578050337130.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2129": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/整数替换_1578120367731.zip",
+        "作答人数": 43,
+        "平均得分": 100.0
+    },
+    "2128": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/旋转函数_1578120116697.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2227": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/破解保险箱_1578298924230.zip",
+        "作答人数": 36,
+        "平均得分": 91.66666666666667
+    },
+    "2226": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/自除数_1578298535497.zip",
+        "作答人数": 43,
+        "平均得分": 97.67441860465117
+    },
+    "2102": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/计数质数_1578049066988.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2223": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/错误的集合_1578298073275.zip",
+        "作答人数": 42,
+        "平均得分": 98.41261904761905
+    },
+    "2245": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/二进制间距_1578656201433.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2101": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/快乐数_1578048948955.zip",
+        "作答人数": 42,
+        "平均得分": 99.20642857142857
+    },
+    "2123": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/有效的完全平方数_1578057914183.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2240": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/数组的均值分割_1578654085471.zip",
+        "作答人数": 42,
+        "平均得分": 99.4047619047619
+    },
+    "2161": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字符串相乘_1577687896817.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2160": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/两数相除_1577685525513.zip",
+        "作答人数": 43,
+        "平均得分": 100.0
+    },
+    "2218": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/三个数的最大乘积_1578296259256.zip",
+        "作答人数": 43,
+        "平均得分": 97.67441860465117
+    },
+    "2118": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/3的幂_1578053970988.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2215": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最优除法_1578295553427.zip",
+        "作答人数": 42,
+        "平均得分": 95.23809523809524
+    },
+    "2138": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/连续的子数组和_1578126351602.zip",
+        "作答人数": 43,
+        "平均得分": 100.0
+    },
+    "2137": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/完美数_1578125766220.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2159": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/整数转罗马数字_1577685311995.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2158": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字符串转换整数_1577685079613.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2136": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最小好进制_1578125624108.zip",
+        "作答人数": 43,
+        "平均得分": 100.0
+    },
+    "2157": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/罗马数字转整数_1577682190777.zip",
+        "作答人数": 42,
+        "平均得分": 98.80952380952381
+    },
+    "2135": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最少移动次数使数组元素相等 II _1578124649095.zip",
+        "作答人数": 43,
+        "平均得分": 100.0
+    },
+    "2112": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/缺失数字_1578051984894.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2156": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/求到达数组末端的最小移动数_1577371584339.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2219": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/平方数之和_1578296465630.zip",
+        "作答人数": 43,
+        "平均得分": 97.67441860465117
+    },
+    "2298": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/二叉排序树_1580114163644.zip",
+        "作答人数": 33,
+        "平均得分": 100.0
+    },
+    "2375": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/连通的农场_1580290595508.zip",
+        "作答人数": 36,
+        "平均得分": 96.11111111111111
+    },
+    "2294": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/二叉树后序遍历_1580111782450.zip",
+        "作答人数": 34,
+        "平均得分": 100.0
+    },
+    "2492": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/草场的围栏_1580530345664.zip",
+        "作答人数": 35,
+        "平均得分": 99.42857142857143
+    },
+    "2391": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/教练点名_1580303700208.zip",
+        "作答人数": 38,
+        "平均得分": 100.0
+    },
+    "2292": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/符合搜索二叉树条件的最大拓扑结构_1580102536773.zip",
+        "作答人数": 34,
+        "平均得分": 100.0
+    },
+    "2306": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/二叉树的先序中序后序遍历_1580190458543.zip",
+        "作答人数": 38,
+        "平均得分": 92.10526315789474
+    },
+    "2405": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/二叉树的参数_1580371145484.zip",
+        "作答人数": 33,
+        "平均得分": 96.36363636363636
+    },
+    "2404": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/树的路径数量_1580370414106.zip",
+        "作答人数": 37,
+        "平均得分": 95.4954054054054
+    },
+    "2446": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/阅读理解_1580449620275.zip",
+        "作答人数": 38,
+        "平均得分": 96.84210526315789
+    },
+    "2302": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/节点的最近公共祖先2_1580185114609.zip",
+        "作答人数": 34,
+        "平均得分": 100.0
+    },
+    "2460": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/树装饰_1580454673366.zip",
+        "作答人数": 33,
+        "平均得分": 100.0
+    },
+    "2459": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/起飞方案_1580453772798.zip",
+        "作答人数": 37,
+        "平均得分": 94.5945945945946
+    },
+    "2458": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最长公共子序列长度_1580453005976.zip",
+        "作答人数": 35,
+        "平均得分": 97.71428571428571
+    },
+    "2435": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/查单词_1580443401128.zip",
+        "作答人数": 40,
+        "平均得分": 100.0
+    },
+    "2457": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/没有上司的舞会_1580452074921.zip",
+        "作答人数": 34,
+        "平均得分": 98.03911764705882
+    },
+    "2710": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/小马里卡和爷爷_1580886961068.zip",
+        "作答人数": 83,
+        "平均得分": 97.83132530120481
+    },
+    "2434": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/静音问题_1580442964658.zip",
+        "作答人数": 37,
+        "平均得分": 99.45945945945945
+    },
+    "2455": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/美丽指数_1580451493875.zip",
+        "作答人数": 71,
+        "平均得分": 96.90140845070422
+    },
+    "2432": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最小叶子_1580442540706.zip",
+        "作答人数": 40,
+        "平均得分": 99.5
+    },
+    "2431": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/无线通讯网_1580441481562.zip",
+        "作答人数": 33,
+        "平均得分": 98.18181818181819
+    },
+    "2448": {
+        "题目类型": "排序算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/H指数_1580450449807.zip",
+        "作答人数": 44,
+        "平均得分": 98.63636363636364
+    },
+    "2443": {
+        "题目类型": "排序算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最大数_1580447885453.zip",
+        "作答人数": 44,
+        "平均得分": 99.54545454545455
+    },
+    "2495": {
+        "题目类型": "排序算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/通过删除字母匹配到字典里最长单词_1580534135543.zip",
+        "作答人数": 40,
+        "平均得分": 100.0
+    },
+    "2491": {
+        "题目类型": "排序算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/两个数组的交集II_1580487855829.zip",
+        "作答人数": 43,
+        "平均得分": 97.67441860465117
+    },
+    "2538": {
+        "题目类型": "排序算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/缺失的第一个正数_1580573741723.zip",
+        "作答人数": 103,
+        "平均得分": 98.44660194174757
+    },
+    "2515": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/分割数组的最大值_1580541692143.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2536": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/重新安排行程_1580571664067.zip",
+        "作答人数": 128,
+        "平均得分": 94.921875
+    },
+    "2525": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/规划兼职工作_1580555770421.zip",
+        "作答人数": 78,
+        "平均得分": 99.57269230769231
+    },
+    "2601": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/乘法表中第k小的数_1580719238597.zip",
+        "作答人数": 46,
+        "平均得分": 100.0
+    },
+    "2634": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/第K个最小的素数分数_1580790708265.zip",
+        "作答人数": 90,
+        "平均得分": 97.77777777777777
+    },
+    "2513": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/有序矩阵中第K小的元素_1580540716917.zip",
+        "作答人数": 88,
+        "平均得分": 99.31818181818181
+    },
+    "2579": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/元素和小于等于阈值的正方形的最大边长_1580699437181.zip",
+        "作答人数": 42,
+        "平均得分": 98.80952380952381
+    },
+    "2578": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/使结果不超过阈值的最小除数_1580698998231.zip",
+        "作答人数": 46,
+        "平均得分": 97.82608695652173
+    },
+    "2541": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/课程表_1580575435117.zip",
+        "作答人数": 97,
+        "平均得分": 95.87628865979381
+    },
+    "2517": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/四数相加 II_1580543978260.zip",
+        "作答人数": 44,
+        "平均得分": 99.0909090909091
+    },
+    "2604": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/寻找比目标字母大的最小字母_1580722803709.zip",
+        "作答人数": 46,
+        "平均得分": 100.0
+    },
+    "2516": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/寻找右区间_1580542448037.zip",
+        "作答人数": 44,
+        "平均得分": 98.18181818181819
+    },
+    "2603": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/找出第k小的距离对_1580721263494.zip",
+        "作答人数": 48,
+        "平均得分": 98.75
+    },
+    "2368": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/交替重新排列阵列_1580287477860.zip",
+        "作答人数": 41,
+        "平均得分": 93.90243902439025
+    },
+    "2365": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最大数字_1580287241559.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2385": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/不允许连续1_1580295486574.zip",
+        "作答人数": 43,
+        "平均得分": 100.0
+    },
+    "2290": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/下一个较小元素_1580100013893.zip",
+        "作答人数": 44,
+        "平均得分": 97.72727272727273
+    },
+    "2210": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字符串中最小的滑窗_1578289443946.zip",
+        "作答人数": 37,
+        "平均得分": 100.0
+    },
+    "2231": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/折点数_1578311588020.zip",
+        "作答人数": 43,
+        "平均得分": 100.0
+    },
+    "2472": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/非重复字符_1580460069655.zip",
+        "作答人数": 43,
+        "平均得分": 100.0
+    },
+    "2593": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/满足方程式_1580711065839.zip",
+        "作答人数": 39,
+        "平均得分": 97.43589743589743
+    },
+    "2546": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/帕多万序列_1580613177596.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2689": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最短的通用超序列_1580825195101.zip",
+        "作答人数": 38,
+        "平均得分": 100.0
+    },
+    "2688": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/完美总和问题_1580824910948.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2687": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/具有1到n范围内的交替位的数字_1580824057157.zip",
+        "作答人数": 40,
+        "平均得分": 100.0
+    },
+    "2686": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最大利润_1580823747291.zip",
+        "作答人数": 38,
+        "平均得分": 100.0
+    },
+    "2685": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/位数为N且可被10 ^ N整除的最小数字_1580823312527.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2684": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/禁止跳过任务_1580823005581.zip",
+        "作答人数": 39,
+        "平均得分": 94.87179487179488
+    },
+    "2208": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/左边最小的数字_1578289082130.zip",
+        "作答人数": 39,
+        "平均得分": 97.43589743589743
+    },
+    "2287": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/下一个更大的元素_1580096654308.zip",
+        "作答人数": 40,
+        "平均得分": 99.0
+    },
+    "2683": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/子序列增加_1580822386638.zip",
+        "作答人数": 39,
+        "平均得分": 97.94871794871794
+    },
+    "2682": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/将所有位设置为数字的给定范围_1580822159091.zip",
+        "作答人数": 41,
+        "平均得分": 99.39024390243902
+    },
+    "2681": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最小操作数_1580821792516.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2680": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/唯一路径数_1580821564779.zip",
+        "作答人数": 39,
+        "平均得分": 100.0
+    },
+    "2481": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/两个数组的交集_1580476134058.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2480": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/隔离链表中的偶数和奇数节点_1580475769252.zip",
+        "作答人数": 43,
+        "平均得分": 100.0
+    },
+    "2281": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/领导者阵列_1580022190205.zip",
+        "作答人数": 43,
+        "平均得分": 100.0
+    },
+    "2679": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/在给定约束下可以使用a，b和c形成的字符串数_1580821343027.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2479": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/不常见字符_1580475441054.zip",
+        "作答人数": 44,
+        "平均得分": 97.1590909090909
+    },
+    "2677": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/计算零Xor对_1580820732939.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2478": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/算术级数_1580475002117.zip",
+        "作答人数": 45,
+        "平均得分": 98.22222222222223
+    },
+    "2676": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/大小为K的最大和子数组_1580818769282.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2675": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/糊涂的巴布_1580818497850.zip",
+        "作答人数": 43,
+        "平均得分": 100.0
+    },
+    "2477": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/重叠矩形_1580473415683.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2944": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/表达式括号匹配_1581070786565.zip",
+        "作答人数": 46,
+        "平均得分": 100.0
+    },
+    "2964": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/说无可说_1581044725709.zip",
+        "作答人数": 38,
+        "平均得分": 97.36842105263158
+    },
+    "2941": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/GPA计算_1581072042347.zip",
+        "作答人数": 46,
+        "平均得分": 97.82608695652173
+    },
+    "2951": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/尴尬的数字_1581060279331.zip",
+        "作答人数": 45,
+        "平均得分": 97.77777777777777
+    },
+    "2940": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/秘密文件_1581072648650.zip",
+        "作答人数": 38,
+        "平均得分": 97.36842105263158
+    },
+    "2962": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字符串关键字的散列映射_1581046023475.zip",
+        "作答人数": 40,
+        "平均得分": 96.0
+    },
+    "2950": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字符串分解_1581060840424.zip",
+        "作答人数": 43,
+        "平均得分": 98.6046511627907
+    },
+    "2960": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/残缺字符_1581048720752.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2939": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/删数问题_1581074073164.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2938": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/按序排列_1581081409128.zip",
+        "作答人数": 47,
+        "平均得分": 100.0
+    },
+    "2949": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/数字游戏_1581061214561.zip",
+        "作答人数": 47,
+        "平均得分": 96.45382978723404
+    },
+    "2937": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/找不同_1581081735266.zip",
+        "作答人数": 47,
+        "平均得分": 98.72340425531915
+    },
+    "2959": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/找相同字符_1581049260112.zip",
+        "作答人数": 44,
+        "平均得分": 97.7275
+    },
+    "2935": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/QAQ_1581090044563.zip",
+        "作答人数": 46,
+        "平均得分": 100.0
+    },
+    "2912": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/无重复字符的最长子串_1581229326797.zip",
+        "作答人数": 48,
+        "平均得分": 97.91666666666667
+    },
+    "2251": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最大三角形面积_1578660363556.zip",
+        "作答人数": 43,
+        "平均得分": 100.0
+    },
+    "2328": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/给定数字能组成的最大时间_1580198845613.zip",
+        "作答人数": 43,
+        "平均得分": 100.0
+    },
+    "2229": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/全局倒置与局部倒置_1578299666969.zip",
+        "作答人数": 43,
+        "平均得分": 100.0
+    },
+    "2327": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/增减字符串匹配_1580198566578.zip",
+        "作答人数": 44,
+        "平均得分": 97.72727272727273
+    },
+    "2228": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/到达终点数字_1578299027120.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2249": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/三维形体投影面积_1578658187245.zip",
+        "作答人数": 40,
+        "平均得分": 100.0
+    },
+    "2325": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/卡牌分组_1580197829156.zip",
+        "作答人数": 46,
+        "平均得分": 98.69565217391305
+    },
+    "2248": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/第 N 个神奇数字_1578657255821.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2247": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/石子游戏_1578657078668.zip",
+        "作答人数": 40,
+        "平均得分": 100.0
+    },
+    "2225": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/灯泡开关 Ⅱ_1578298381356.zip",
+        "作答人数": 40,
+        "平均得分": 100.0
+    },
+    "2323": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/ 最小差值 I_1580197333852.zip",
+        "作答人数": 44,
+        "平均得分": 99.54545454545455
+    },
+    "2224": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最大交换_1578298227975.zip",
+        "作答人数": 43,
+        "平均得分": 100.0
+    },
+    "2246": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/重新排序得到 2 的幂_1578656476690.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2244": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/回文素数_1578655978256.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2222": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/求解方程_1578297946209.zip",
+        "作答人数": 42,
+        "平均得分": 97.61904761904762
+    },
+    "2243": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/镜面反射_1578655688640.zip",
+        "作答人数": 41,
+        "平均得分": 98.37390243902439
+    },
+    "2320": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/ 有序队列_1580195963555.zip",
+        "作答人数": 40,
+        "平均得分": 100.0
+    },
+    "2166": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/卡旋转_1578140347213.zip",
+        "作答人数": 36,
+        "平均得分": 95.55555555555556
+    },
+    "2242": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/矩形重叠_1578655055398.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2241": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/连续整数求和_1578654847697.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2163": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/第k个排列_1577688544639.zip",
+        "作答人数": 43,
+        "平均得分": 100.0
+    },
+    "2162": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Pow(x, n)_1577688408110.zip",
+        "作答人数": 84,
+        "平均得分": 100.0
+    },
+    "2317": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/子序列宽度之和_1580194992164.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2217": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/有效的正方形_1578296014549.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2216": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/分数加减运算_1578295739758.zip",
+        "作答人数": 79,
+        "平均得分": 98.73417721518987
+    },
+    "2238": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/森林中的兔子_1578652740713.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2335": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/坏了的计算器_1580204310223.zip",
+        "作答人数": 99,
+        "平均得分": 99.5959595959596
+    },
+    "2214": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/复数乘法_1578295326534.zip",
+        "作答人数": 43,
+        "平均得分": 100.0
+    },
+    "2334": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/三角形的最大周长_1580203847010.zip",
+        "作答人数": 45,
+        "平均得分": 99.44444444444444
+    },
+    "2333": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/强整数_1580201591493.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2376": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/除数博弈_1580288195685.zip",
+        "作答人数": 42,
+        "平均得分": 98.57142857142857
+    },
+    "2277": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/鸡蛋掉落_1579614418729.zip",
+        "作答人数": 39,
+        "平均得分": 100.0
+    },
+    "2319": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/三维形体的表面积_1580195721433.zip",
+        "作答人数": 43,
+        "平均得分": 100.0
+    },
+    "2221": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/受欢迎的牛_1578298200810.zip",
+        "作答人数": 38,
+        "平均得分": 100.0
+    },
+    "2254": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/分离的路径_1578982961705.zip",
+        "作答人数": 74,
+        "平均得分": 96.08108108108108
+    },
+    "2265": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/电话线缆网络_1579246145427.zip",
+        "作答人数": 28,
+        "平均得分": 96.42857142857143
+    },
+    "2232": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/网络协议_1578557871404.zip",
+        "作答人数": 28,
+        "平均得分": 99.02607142857143
+    },
+    "2165": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/广度优先遍历图_1577866619032.zip",
+        "作答人数": 37,
+        "平均得分": 100.0
+    },
+    "2264": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/矿场搭建_1579244424987.zip",
+        "作答人数": 31,
+        "平均得分": 98.06451612903226
+    },
+    "2175": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Trees Gump_1578233717015.zip",
+        "作答人数": 30,
+        "平均得分": 96.66666666666667
+    },
+    "2337": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/游戏泡泡堂_1580206854220.zip",
+        "作答人数": 36,
+        "平均得分": 93.61111111111111
+    },
+    "2303": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/太鼓达人_1580185643880.zip",
+        "作答人数": 35,
+        "平均得分": 100.0
+    },
+    "2213": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/小奇的旅行计划_1578296274370.zip",
+        "作答人数": 31,
+        "平均得分": 100.0
+    },
+    "2234": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/间谍网络_1578566459366.zip",
+        "作答人数": 29,
+        "平均得分": 100.0
+    },
+    "2233": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/消息的传递_1578565266671.zip",
+        "作答人数": 35,
+        "平均得分": 98.09542857142857
+    },
+    "2702": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/岛屿数量_1580880930411.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2635": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/阶乘函数后K个零_1580791683938.zip",
+        "作答人数": 44,
+        "平均得分": 98.86363636363636
+    },
+    "2645": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/爱吃香蕉的珂珂_1580794399044.zip",
+        "作答人数": 42,
+        "平均得分": 97.61904761904762
+    },
+    "2644": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/和至少为K的最短子数组_1580792972093.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2643": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/爱生气的书店老板_1580792520237.zip",
+        "作答人数": 42,
+        "平均得分": 99.52380952380952
+    },
+    "2566": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/地下城游戏_1580652960077.zip",
+        "作答人数": 39,
+        "平均得分": 100.0
+    },
+    "2576": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/转变数组后最接近目标值的数组和_1580698525949.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2642": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/移动石子直到连续 II_1580792321171.zip",
+        "作答人数": 40,
+        "平均得分": 96.5
+    },
+    "2565": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/寻找两个有序数组的中位数_1580652456184.zip",
+        "作答人数": 41,
+        "平均得分": 99.02439024390245
+    },
+    "2641": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字符串的排列_1580792044833.zip",
+        "作答人数": 43,
+        "平均得分": 99.06976744186046
+    },
+    "2630": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/水位上升的泳池中游泳_1580786580009.zip",
+        "作答人数": 44,
+        "平均得分": 96.5909090909091
+    },
+    "2575": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/有效括号的嵌套深度_1580698117124.zip",
+        "作答人数": 40,
+        "平均得分": 100.0
+    },
+    "2773": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/矩阵中的最长递增路径_1581000509081.zip",
+        "作答人数": 94,
+        "平均得分": 98.93617021276596
+    },
+    "2563": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最小好进制_1580644260685.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2606": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/二分查找_1580735986591.zip",
+        "作答人数": 143,
+        "平均得分": 97.9020979020979
+    },
+    "2639": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/ 替换后的最长重复字符_1580791350989.zip",
+        "作答人数": 83,
+        "平均得分": 100.0
+    },
+    "2637": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/山脉数组的峰顶索引_1580792251666.zip",
+        "作答人数": 45,
+        "平均得分": 97.77777777777777
+    },
+    "2526": {
+        "题目类型": "排序算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/两棵二叉搜索树中的所有元素_1580556541141.zip",
+        "作答人数": 100,
+        "平均得分": 94.8
+    },
+    "2504": {
+        "题目类型": "排序算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最接近原点的K个点_1580538629453.zip",
+        "作答人数": 44,
+        "平均得分": 100.0
+    },
+    "2488": {
+        "题目类型": "排序算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/摆动排序_1580485361916.zip",
+        "作答人数": 44,
+        "平均得分": 98.63636363636364
+    },
+    "2520": {
+        "题目类型": "排序算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/距离顺序排列矩阵单元格_1580547429827.zip",
+        "作答人数": 44,
+        "平均得分": 96.96954545454545
+    },
+    "2399": {
+        "题目类型": "排序算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Gobo sort_1580366826302.zip",
+        "作答人数": 41,
+        "平均得分": 94.51219512195122
+    },
+    "2496": {
+        "题目类型": "排序算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/重构字符串_1580534515633.zip",
+        "作答人数": 43,
+        "平均得分": 98.13953488372093
+    },
+    "2551": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/光开关_1580616235674.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2297": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/树查找_1580113752369.zip",
+        "作答人数": 45,
+        "平均得分": 96.44444444444444
+    },
+    "2550": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/开关_1580615500499.zip",
+        "作答人数": 41,
+        "平均得分": 99.51219512195122
+    },
+    "2572": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/色板游戏_1580666324689.zip",
+        "作答人数": 41,
+        "平均得分": 98.04878048780488
+    },
+    "2351": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/黑手党_1580271498560.zip",
+        "作答人数": 31,
+        "平均得分": 96.7741935483871
+    },
+    "2493": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/HH的项链_1580530854217.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2503": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/树的最长路径_1580538013860.zip",
+        "作答人数": 38,
+        "平均得分": 97.89473684210526
+    },
+    "2349": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/矿区_1580266564770.zip",
+        "作答人数": 68,
+        "平均得分": 100.0
+    },
+    "2447": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/管家的忠诚_1580450298485.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2502": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/序列问题_1580537519291.zip",
+        "作答人数": 44,
+        "平均得分": 95.45454545454545
+    },
+    "2369": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/新二叉树_1580287530217.zip",
+        "作答人数": 43,
+        "平均得分": 100.0
+    },
+    "2501": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/会议座位_1580537193500.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2508": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/二叉苹果树_1580540038232.zip",
+        "作答人数": 39,
+        "平均得分": 96.41025641025641
+    },
+    "2437": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/画栅栏_1580444018380.zip",
+        "作答人数": 39,
+        "平均得分": 96.92307692307692
+    },
+    "2314": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/将搜索二叉树转换成双向链表_1580195976948.zip",
+        "作答人数": 35,
+        "平均得分": 100.0
+    },
+    "2512": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/维护序列_1580542255735.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2556": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/方块重叠_1580623539547.zip",
+        "作答人数": 41,
+        "平均得分": 97.07317073170732
+    },
+    "2313": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/判断树类型_1580195073976.zip",
+        "作答人数": 39,
+        "平均得分": 92.3076923076923
+    },
+    "2511": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Interesting序列_1580541752669.zip",
+        "作答人数": 39,
+        "平均得分": 97.94871794871794
+    },
+    "2555": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/三元上升子序列_1580623010423.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2499": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/不等式组_1580536541473.zip",
+        "作答人数": 40,
+        "平均得分": 97.0
+    },
+    "2554": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/解雇救生员_1580622645670.zip",
+        "作答人数": 40,
+        "平均得分": 99.0
+    },
+    "2553": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/改造二叉树_1580622290941.zip",
+        "作答人数": 35,
+        "平均得分": 97.14285714285714
+    },
+    "2597": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/送花_1580713727119.zip",
+        "作答人数": 41,
+        "平均得分": 98.37390243902439
+    },
+    "2552": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/贪婪大陆_1580620850481.zip",
+        "作答人数": 40,
+        "平均得分": 99.16675000000001
+    },
+    "2310": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/打印二叉树的边界节点_1580192408779.zip",
+        "作答人数": 31,
+        "平均得分": 98.70967741935483
+    },
+    "2318": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最大搜索二叉子树_1580196936678.zip",
+        "作答人数": 34,
+        "平均得分": 96.0785294117647
+    },
+    "2666": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/邮件传播_1580803559900.zip",
+        "作答人数": 53,
+        "平均得分": 96.22641509433963
+    },
+    "2663": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/模式识别_1580802072609.zip",
+        "作答人数": 55,
+        "平均得分": 100.0
+    },
+    "2672": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/反转位_1580817774813.zip",
+        "作答人数": 53,
+        "平均得分": 98.11320754716981
+    },
+    "2473": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/直方图中的最大矩形面积_1580472198083.zip",
+        "作答人数": 40,
+        "平均得分": 96.0
+    },
+    "2691": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最小总和分区_1580825854859.zip",
+        "作答人数": 37,
+        "平均得分": 96.62162162162163
+    },
+    "2471": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/括号检查器_1580458780748.zip",
+        "作答人数": 41,
+        "平均得分": 97.5609756097561
+    },
+    "2690": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/查找字符串作为子序列出现的次数_1580825446749.zip",
+        "作答人数": 37,
+        "平均得分": 94.5945945945946
+    },
+    "2590": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/伪造的个人资料_1580708486410.zip",
+        "作答人数": 41,
+        "平均得分": 98.78048780487805
+    },
+    "2724": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/骰子问题_1580914382446.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2723": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/重复加数字_1580914161237.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2646": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/寻找尼姆游戏的获胜者_1580798745632.zip",
+        "作答人数": 41,
+        "平均得分": 98.78048780487805
+    },
+    "2722": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/安斯曼的最爱号码_1580913860169.zip",
+        "作答人数": 41,
+        "平均得分": 99.02439024390245
+    },
+    "2721": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/唐津算法_1580913495968.zip",
+        "作答人数": 41,
+        "平均得分": 98.04878048780488
+    },
+    "2487": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/选举获胜者_1580478896577.zip",
+        "作答人数": 41,
+        "平均得分": 98.78048780487805
+    },
+    "2761": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/N*N棋盘中的方块_1580997377424.zip",
+        "作答人数": 41,
+        "平均得分": 96.95121951219512
+    },
+    "2486": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/解码字符串_1580478681092.zip",
+        "作答人数": 39,
+        "平均得分": 93.84615384615384
+    },
+    "2728": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/盛满水的容器_1580915166918.zip",
+        "作答人数": 38,
+        "平均得分": 100.0
+    },
+    "2727": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/分配老鼠洞_1580914826025.zip",
+        "作答人数": 37,
+        "平均得分": 96.62162162162163
+    },
+    "2649": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/切换给定范围的位_1580799548425.zip",
+        "作答人数": 41,
+        "平均得分": 98.78048780487805
+    },
+    "2725": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/汤姆和杰瑞_1580914594798.zip",
+        "作答人数": 38,
+        "平均得分": 94.73684210526316
+    },
+    "2760": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最高金额_1580997154059.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2485": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/相同字符组_1580477626800.zip",
+        "作答人数": 40,
+        "平均得分": 98.75
+    },
+    "2484": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/两个数组的并集_1580477217042.zip",
+        "作答人数": 41,
+        "平均得分": 97.5609756097561
+    },
+    "2560": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/唯一ID_1580628562143.zip",
+        "作答人数": 40,
+        "平均得分": 97.0
+    },
+    "2483": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最小索引字符_1580476805736.zip",
+        "作答人数": 41,
+        "平均得分": 98.53658536585365
+    },
+    "2559": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/检查字符串是否为Isogram_1580627610984.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2557": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/删除给定数字中的重复数字_1580626991200.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2755": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/将两个多项式相乘_1580975021502.zip",
+        "作答人数": 40,
+        "平均得分": 98.75
+    },
+    "2732": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/模_1580916098046.zip",
+        "作答人数": 40,
+        "平均得分": 100.0
+    },
+    "2336": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/大小为k的所有子数组的最大值_1580206620122.zip",
+        "作答人数": 38,
+        "平均得分": 97.36842105263158
+    },
+    "2731": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/成对_1580915675560.zip",
+        "作答人数": 39,
+        "平均得分": 100.0
+    },
+    "2730": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/使用数组数字形成一个可被3整除的数字_1580915432461.zip",
+        "作答人数": 41,
+        "平均得分": 98.04878048780488
+    },
+    "2759": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/给定范围内的除数_1580996852972.zip",
+        "作答人数": 41,
+        "平均得分": 98.17073170731707
+    },
+    "2954": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/破译符号_1581055509074.zip",
+        "作答人数": 36,
+        "平均得分": 92.36111111111111
+    },
+    "2975": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字符串内排序_1581007233106.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2942": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/拼数_1581071684394.zip",
+        "作答人数": 41,
+        "平均得分": 99.51219512195122
+    },
+    "2963": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/树上的回文串_1581045143251.zip",
+        "作答人数": 36,
+        "平均得分": 92.36111111111111
+    },
+    "2974": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/切开字符串_1581008348686.zip",
+        "作答人数": 36,
+        "平均得分": 98.14805555555556
+    },
+    "2984": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字符串对比_1580987492577.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2961": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字符加密_1581047150062.zip",
+        "作答人数": 38,
+        "平均得分": 99.12289473684211
+    },
+    "2972": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/LW的字符串_1581036813792.zip",
+        "作答人数": 36,
+        "平均得分": 91.66666666666667
+    },
+    "2970": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/正则表达式_1581037918463.zip",
+        "作答人数": 32,
+        "平均得分": 94.7915625
+    },
+    "2981": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字符串的展开_1580988218202.zip",
+        "作答人数": 35,
+        "平均得分": 97.71428571428571
+    },
+    "2969": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Lyndon 分解_1581038765628.zip",
+        "作答人数": 34,
+        "平均得分": 93.27735294117646
+    },
+    "2979": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最长字符串_1580992534192.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2946": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/硬币翻转_1581066261494.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2957": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/奇怪的字符串_1581050501510.zip",
+        "作答人数": 37,
+        "平均得分": 95.13513513513513
+    },
+    "2968": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/回文子串_1581039617734.zip",
+        "作答人数": 35,
+        "平均得分": 95.42857142857143
+    },
+    "2978": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/比较字符串_1580995538329.zip",
+        "作答人数": 42,
+        "平均得分": 98.57142857142857
+    },
+    "2945": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/单词覆盖还原_1581069132131.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2956": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/A先生的字符串_1581051149593.zip",
+        "作答人数": 36,
+        "平均得分": 98.14805555555556
+    },
+    "2305": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/花札_1580189243922.zip",
+        "作答人数": 31,
+        "平均得分": 85.30419354838709
+    },
+    "2316": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/新生舞会_1580196497826.zip",
+        "作答人数": 30,
+        "平均得分": 89.0
+    },
+    "2348": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/棋盘游戏_1580224321672.zip",
+        "作答人数": 30,
+        "平均得分": 89.52399999999999
+    },
+    "2347": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/搭配飞行员_1580214263247.zip",
+        "作答人数": 32,
+        "平均得分": 86.45812500000001
+    },
+    "2235": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/和平委员会_1578570299130.zip",
+        "作答人数": 33,
+        "平均得分": 94.44484848484849
+    },
+    "2343": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/积木_1580211748007.zip",
+        "作答人数": 32,
+        "平均得分": 100.0
+    },
+    "2354": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/分形之分数_1580273944996.zip",
+        "作答人数": 71,
+        "平均得分": 95.17112676056338
+    },
+    "2331": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/小凸玩矩阵_1580200767922.zip",
+        "作答人数": 33,
+        "平均得分": 88.18181818181819
+    },
+    "2352": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/四联通块_1580272265459.zip",
+        "作答人数": 32,
+        "平均得分": 93.7503125
+    },
+    "2704": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/冗余连接_1580881935933.zip",
+        "作答人数": 85,
+        "平均得分": 94.70588235294117
+    },
+    "2374": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/按频率对数组元素排序_1580288563545.zip",
+        "作答人数": 84,
+        "平均得分": 96.42857142857143
+    },
+    "2470": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/旋转2D阵列而无需占用额外空间_1580457535637.zip",
+        "作答人数": 37,
+        "平均得分": 97.29729729729729
+    },
+    "2393": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/成对个数_1580308276792.zip",
+        "作答人数": 38,
+        "平均得分": 98.6842105263158
+    },
+    "2469": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最小窗口_1580457319327.zip",
+        "作答人数": 38,
+        "平均得分": 98.94736842105263
+    },
+    "2384": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/缺失的最小正数_1580294580636.zip",
+        "作答人数": 38,
+        "平均得分": 98.02631578947368
+    },
+    "2521": {
+        "题目类型": "排序算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/距离相等的条形码_1580548074793.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2532": {
+        "题目类型": "排序算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最多能完成排序的块_1580562989092.zip",
+        "作答人数": 39,
+        "平均得分": 98.71794871794872
+    },
+    "2497": {
+        "题目类型": "排序算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/车队_1580535112943.zip",
+        "作答人数": 40,
+        "平均得分": 100.0
+    },
+    "2519": {
+        "题目类型": "排序算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/三角形的最大周长_1580546647886.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2529": {
+        "题目类型": "排序算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/重新排序得到 2 的幂_1580559752667.zip",
+        "作答人数": 102,
+        "平均得分": 98.43137254901961
+    },
+    "2650": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/可怜的狗狗_1580799890800.zip",
+        "作答人数": 36,
+        "平均得分": 92.5925
+    },
+    "2353": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/树的合并_1580272801639.zip",
+        "作答人数": 35,
+        "平均得分": 97.14285714285714
+    },
+    "2524": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/树的序_1580554056577.zip",
+        "作答人数": 36,
+        "平均得分": 93.33333333333333
+    },
+    "2600": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/摧毁数列_1580716260903.zip",
+        "作答人数": 35,
+        "平均得分": 94.85714285714286
+    },
+    "2400": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/下落的树叶_1580369555337.zip",
+        "作答人数": 30,
+        "平均得分": 92.22166666666665
+    },
+    "2509": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/中位数_1580540417676.zip",
+        "作答人数": 38,
+        "平均得分": 98.94736842105263
+    },
+    "2605": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/左偏树_1580731281998.zip",
+        "作答人数": 36,
+        "平均得分": 98.33333333333333
+    },
+    "2549": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/宝石管理系统_1580615111411.zip",
+        "作答人数": 37,
+        "平均得分": 98.37837837837837
+    },
+    "2648": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/审查_1580799206069.zip",
+        "作答人数": 36,
+        "平均得分": 97.91666666666667
+    },
+    "2540": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/庙会班车_1580575122512.zip",
+        "作答人数": 32,
+        "平均得分": 91.875
+    },
+    "2660": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/高级打印机_1580801475946.zip",
+        "作答人数": 84,
+        "平均得分": 98.0952380952381
+    },
+    "2382": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/区间_1580292951134.zip",
+        "作答人数": 39,
+        "平均得分": 95.8974358974359
+    },
+    "2416": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/腰鼓_1580381364633.zip",
+        "作答人数": 37,
+        "平均得分": 98.64864864864865
+    },
+    "2636": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/逃学的小孩_1580791907955.zip",
+        "作答人数": 35,
+        "平均得分": 95.42857142857143
+    },
+    "2657": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/树的标记和询问_1580801036025.zip",
+        "作答人数": 34,
+        "平均得分": 92.94117647058823
+    },
+    "2633": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/无聊的数列_1580789591663.zip",
+        "作答人数": 37,
+        "平均得分": 97.83783783783784
+    },
+    "2699": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/第一_1580878507719.zip",
+        "作答人数": 34,
+        "平均得分": 94.60764705882353
+    },
+    "2599": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/畜栏分配_1580715163613.zip",
+        "作答人数": 35,
+        "平均得分": 97.14285714285714
+    },
+    "2632": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/鬼子进村_1580788710667.zip",
+        "作答人数": 35,
+        "平均得分": 98.28571428571429
+    },
+    "2654": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/城市的地平线_1580800432465.zip",
+        "作答人数": 36,
+        "平均得分": 98.33333333333333
+    },
+    "2598": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最大数_1580714427523.zip",
+        "作答人数": 36,
+        "平均得分": 98.61111111111111
+    },
+    "2631": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/奶牛产奶量_1580788219076.zip",
+        "作答人数": 37,
+        "平均得分": 98.37837837837837
+    },
+    "2697": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/验证二叉搜索树_1580877730177.zip",
+        "作答人数": 36,
+        "平均得分": 98.61111111111111
+    },
+    "2696": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最长波动数列_1580877609678.zip",
+        "作答人数": 35,
+        "平均得分": 97.14285714285714
+    },
+    "2355": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最小权值_1580278317740.zip",
+        "作答人数": 33,
+        "平均得分": 94.6969696969697
+    },
+    "2695": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/树上操作_1580875940294.zip",
+        "作答人数": 35,
+        "平均得分": 92.57142857142857
+    },
+    "2398": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/奶牛舞蹈_1580364191279.zip",
+        "作答人数": 34,
+        "平均得分": 97.05882352941177
+    },
+    "2638": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/平均数和方差_1580792356902.zip",
+        "作答人数": 37,
+        "平均得分": 96.21621621621621
+    },
+    "2092": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/图论-信息传递_1578042452221.zip",
+        "作答人数": 42,
+        "平均得分": 78.04214285714286
+    },
+    "2276": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/螺旋矩阵 III_1579614091074.zip",
+        "作答人数": 39,
+        "平均得分": 97.43589743589743
+    },
+    "2275": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/变为棋盘_1578659952153.zip",
+        "作答人数": 37,
+        "平均得分": 94.5945945945946
+    },
+    "2330": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最小面积矩形 II_1580200004778.zip",
+        "作答人数": 38,
+        "平均得分": 96.71052631578948
+    },
+    "2250": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/直线上最多的点数_1578658525101.zip",
+        "作答人数": 42,
+        "平均得分": 98.80952380952381
+    },
+    "2370": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/负二进制转换_1580287809368.zip",
+        "作答人数": 41,
+        "平均得分": 99.51219512195122
+    },
+    "2403": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/分糖果 II_1580370017857.zip",
+        "作答人数": 42,
+        "平均得分": 100.0
+    },
+    "2326": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/三等分_1580198353640.zip",
+        "作答人数": 37,
+        "平均得分": 99.45945945945945
+    },
+    "2402": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/航班预订统计_1580369498264.zip",
+        "作答人数": 40,
+        "平均得分": 100.0
+    },
+    "2401": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/二叉树寻路_1580368729768.zip",
+        "作答人数": 39,
+        "平均得分": 100.0
+    },
+    "2324": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最小差值 II_1580197596572.zip",
+        "作答人数": 40,
+        "平均得分": 100.0
+    },
+    "2367": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/可被 K 整除的最小整数_1580287010953.zip",
+        "作答人数": 41,
+        "平均得分": 100.0
+    },
+    "2421": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/6 和 9 组成的最大数字_1580383509839.zip",
+        "作答人数": 43,
+        "平均得分": 100.0
+    },
+    "2322": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/超级回文数_1580196907945.zip",
+        "作答人数": 39,
+        "平均得分": 98.97435897435898
+    },
+    "2420": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/将整数转换为两个无零整数的和_1580382596647.zip",
+        "作答人数": 43,
+        "平均得分": 100.0
+    },
+    "2321": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/ 最大为 N 的数字组合_1580196425590.zip",
+        "作答人数": 37,
+        "平均得分": 100.0
+    },
+    "2409": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/玩筹码_1580372786929.zip",
+        "作答人数": 43,
+        "平均得分": 100.0
+    },
+    "2408": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/质数排列_1580372252391.zip",
+        "作答人数": 42,
+        "平均得分": 99.52380952380952
+    },
+    "2407": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/一年中的第几天_1580371524351.zip",
+        "作答人数": 43,
+        "平均得分": 97.67441860465117
+    },
+    "2329": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/按公因数计算最大组件大小_1580199072901.zip",
+        "作答人数": 36,
+        "平均得分": 98.33333333333333
+    },
+    "2364": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/至少有 1 位重复的数字_1580286865208.zip",
+        "作答人数": 39,
+        "平均得分": 100.0
+    },
+    "2363": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/十进制整数的反码_1580286710067.zip",
+        "作答人数": 43,
+        "平均得分": 100.0
+    },
+    "2362": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/笨阶乘_1580286587090.zip",
+        "作答人数": 41,
+        "平均得分": 99.18707317073171
+    },
+    "2360": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/正方形数组的数目_1580285150713.zip",
+        "作答人数": 37,
+        "平均得分": 100.0
+    },
+    "2381": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/负二进制数相加_1580290224731.zip",
+        "作答人数": 40,
+        "平均得分": 100.0
+    },
+    "2239": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/有效的井字游戏_1578653472910.zip",
+        "作答人数": 39,
+        "平均得分": 100.0
+    },
+    "2379": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/困于环中的机器人_1580289462981.zip",
+        "作答人数": 40,
+        "平均得分": 100.0
+    },
+    "2411": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/缀点成线_1580374815317.zip",
+        "作答人数": 43,
+        "平均得分": 99.4186046511628
+    },
+    "2377": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/有效的回旋镖_1580289131613.zip",
+        "作答人数": 43,
+        "平均得分": 99.22488372093024
+    },
+    "2332": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/表示数字的最少运算符_1580200935787.zip",
+        "作答人数": 36,
+        "平均得分": 100.0
+    },
+    "2419": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/整数的各位积和之差_1580379202720.zip",
+        "作答人数": 43,
+        "平均得分": 100.0
+    },
+    "2518": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/供暖器_1580544266335.zip",
+        "作答人数": 43,
+        "平均得分": 98.13953488372093
+    },
+    "2694": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最长重复子串_1580875663360.zip",
+        "作答人数": 37,
+        "平均得分": 99.45945945945945
+    },
+    "2570": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/ 俄罗斯套娃信封问题_1580656269392.zip",
+        "作答人数": 36,
+        "平均得分": 98.01583333333333
+    },
+    "2745": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/单词接龙_1580969942814.zip",
+        "作答人数": 82,
+        "平均得分": 96.95121951219512
+    },
+    "2711": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/相似字符串组_1580887017732.zip",
+        "作答人数": 88,
+        "平均得分": 100.0
+    },
+    "2567": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/区间和的个数_1580653952312.zip",
+        "作答人数": 38,
+        "平均得分": 100.0
+    },
+    "2720": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/连通网络的操作次数_1580912556949.zip",
+        "作答人数": 37,
+        "平均得分": 100.0
+    },
+    "2707": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/情侣牵手_1580884224925.zip",
+        "作答人数": 96,
+        "平均得分": 100.0
+    },
+    "2706": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/账户合并_1580883269639.zip",
+        "作答人数": 36,
+        "平均得分": 100.0
+    },
+    "2717": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/等式方程的可满足性_1580892207341.zip",
+        "作答人数": 86,
+        "平均得分": 99.53488372093024
+    },
+    "2716": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/由斜杠划分区域_1580891428670.zip",
+        "作答人数": 81,
+        "平均得分": 86.91358024691358
+    },
+    "2705": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/冗余连接2_1580882633984.zip",
+        "作答人数": 89,
+        "平均得分": 97.75280898876404
+    },
+    "2726": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/二叉树的最小深度_1580914646382.zip",
+        "作答人数": 84,
+        "平均得分": 96.42857142857143
+    },
+    "2715": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/移除最多的同行或同列石头_1580890394022.zip",
+        "作答人数": 42,
+        "平均得分": 98.41261904761905
+    },
+    "2703": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/朋友圈_1580881383952.zip",
+        "作答人数": 41,
+        "平均得分": 98.78048780487805
+    },
+    "2573": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/破解系列_1580697733555.zip",
+        "作答人数": 52,
+        "平均得分": 95.38461538461539
+    },
+    "2771": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/检查数字是否为完全平方_1581000024036.zip",
+        "作答人数": 50,
+        "平均得分": 100.0
+    },
+    "2594": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/任何两个相同字符之间的最大字符数_1580711288026.zip",
+        "作答人数": 52,
+        "平均得分": 99.67942307692307
+    },
+    "2770": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/一间房间N次会议_1580999740089.zip",
+        "作答人数": 44,
+        "平均得分": 90.9090909090909
+    },
+    "2670": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/补码_1580805225593.zip",
+        "作答人数": 53,
+        "平均得分": 98.11320754716981
+    },
+    "2591": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/从属之数_1580708920063.zip",
+        "作答人数": 46,
+        "平均得分": 98.69565217391305
+    },
+    "2768": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/计数可被M整除的数字_1580999435602.zip",
+        "作答人数": 49,
+        "平均得分": 93.46938775510205
+    },
+    "2767": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/达到指定分数_1580999228902.zip",
+        "作答人数": 47,
+        "平均得分": 90.63829787234043
+    },
+    "2766": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/火柴游戏_1580999017750.zip",
+        "作答人数": 50,
+        "平均得分": 94.0
+    },
+    "2545": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/总和为0的子数组_1580612860796.zip",
+        "作答人数": 50,
+        "平均得分": 96.5
+    },
+    "2765": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/利率问题_1580998790247.zip",
+        "作答人数": 48,
+        "平均得分": 97.39583333333333
+    },
+    "2544": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/检查两个线段是否相交_1580612630638.zip",
+        "作答人数": 50,
+        "平均得分": 94.8572
+    },
+    "2764": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最大总和问题_1580998471203.zip",
+        "作答人数": 47,
+        "平均得分": 91.48936170212765
+    },
+    "2763": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/序列顺序_1580997969937.zip",
+        "作答人数": 44,
+        "平均得分": 99.43181818181819
+    },
+    "2762": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/我在哪里 _1580997719156.zip",
+        "作答人数": 45,
+        "平均得分": 94.66666666666667
+    },
+    "2609": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/第K个不同元素_1580737277609.zip",
+        "作答人数": 51,
+        "平均得分": 95.09803921568627
+    },
+    "2905": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/二进制链表转整数_1581144502534.zip",
+        "作答人数": 53,
+        "平均得分": 100.0
+    },
+    "2780": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/数组乘法的余数_1581002231842.zip",
+        "作答人数": 48,
+        "平均得分": 98.21416666666669
+    },
+    "2779": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/购买数组_1581001963203.zip",
+        "作答人数": 48,
+        "平均得分": 98.95833333333333
+    },
+    "2778": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/相同的第一位和最后一位数字_1581001741643.zip",
+        "作答人数": 47,
+        "平均得分": 98.40425531914893
+    },
+    "2678": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/查找设置位的位置_1580821048016.zip",
+        "作答人数": 49,
+        "平均得分": 100.0
+    },
+    "2777": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/求中位数_1581001441156.zip",
+        "作答人数": 51,
+        "平均得分": 96.86274509803921
+    },
+    "2775": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/检查三个连续数字_1581001179538.zip",
+        "作答人数": 51,
+        "平均得分": 100.0
+    },
+    "2774": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最大化玩具_1581000597970.zip",
+        "作答人数": 49,
+        "平均得分": 100.0
+    },
+    "2476": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/绳索的最低成本_1580473066444.zip",
+        "作答人数": 47,
+        "平均得分": 96.09936170212767
+    },
+    "2674": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/计算a ^ i b ^ j c ^ k类型的子序列_1580818169103.zip",
+        "作答人数": 48,
+        "平均得分": 99.47916666666667
+    },
+    "2574": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/山洞石刻_1580698169757.zip",
+        "作答人数": 52,
+        "平均得分": 98.07692307692308
+    },
+    "2772": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/数的立方根_1581000260893.zip",
+        "作答人数": 50,
+        "平均得分": 100.0
+    },
+    "2475": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最长连续子序列_1580472680364.zip",
+        "作答人数": 48,
+        "平均得分": 97.5
+    },
+    "2991": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字符串分类统计_1580968298232.zip",
+        "作答人数": 59,
+        "平均得分": 96.61016949152543
+    },
+    "2980": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字符串编辑_1580992229410.zip",
+        "作答人数": 51,
+        "平均得分": 99.2156862745098
+    },
+    "2990": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/自定义函数之字符串连接_1580969993019.zip",
+        "作答人数": 60,
+        "平均得分": 100.0
+    },
+    "2988": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/自定义函数之字符串拷贝_1580973073433.zip",
+        "作答人数": 60,
+        "平均得分": 100.0
+    },
+    "2977": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字符串的反码_1581005412923.zip",
+        "作答人数": 53,
+        "平均得分": 99.52830188679245
+    },
+    "2966": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/文本校正_1581043489527.zip",
+        "作答人数": 40,
+        "平均得分": 98.75
+    },
+    "2987": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字符串正反连接_1580974584486.zip",
+        "作答人数": 62,
+        "平均得分": 100.0
+    },
+    "2976": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字符串的查找删除_1581005696191.zip",
+        "作答人数": 49,
+        "平均得分": 99.48979591836735
+    },
+    "2965": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/复制粘贴_1581044014642.zip",
+        "作答人数": 50,
+        "平均得分": 98.6666
+    },
+    "2986": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字符串的修改_1580986425545.zip",
+        "作答人数": 50,
+        "平均得分": 95.6
+    },
+    "2973": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/密文搜索_1581009486564.zip",
+        "作答人数": 52,
+        "平均得分": 95.51288461538462
+    },
+    "2983": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/完美的代价_1580987713981.zip",
+        "作答人数": 47,
+        "平均得分": 97.87234042553192
+    },
+    "2971": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/后缀排序_1581037453739.zip",
+        "作答人数": 49,
+        "平均得分": 95.91836734693878
+    },
+    "2948": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/缘分计算_1581065157299.zip",
+        "作答人数": 55,
+        "平均得分": 96.0
+    },
+    "2989": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/三个字符串的排序_1580972181100.zip",
+        "作答人数": 58,
+        "平均得分": 100.0
+    },
+    "2967": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最长公共子串_1581042438428.zip",
+        "作答人数": 51,
+        "平均得分": 98.03921568627452
+    },
+    "2693": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/小清新计算题_1580875111976.zip",
+        "作答人数": 44,
+        "平均得分": 98.86363636363636
+    },
+    "2744": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/回文串_1580969473133.zip",
+        "作答人数": 46,
+        "平均得分": 93.91304347826087
+    },
+    "2743": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/松鼠的新家_1580969088740.zip",
+        "作答人数": 42,
+        "平均得分": 96.19047619047619
+    },
+    "2742": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/可持久化平衡树_1580968623942.zip",
+        "作答人数": 43,
+        "平均得分": 94.4186046511628
+    },
+    "2708": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/人类基因组计划2_1580884846603.zip",
+        "作答人数": 44,
+        "平均得分": 97.34863636363637
+    },
+    "2749": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/树上后缀排序_1580970866704.zip",
+        "作答人数": 42,
+        "平均得分": 88.49190476190476
+    },
+    "2902": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/水晶矿_1581144038631.zip",
+        "作答人数": 50,
+        "平均得分": 98.8
+    },
+    "2782": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/营业额统计_1581050373067.zip",
+        "作答人数": 45,
+        "平均得分": 97.77777777777777
+    },
+    "2781": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/存在前缀_1581048932210.zip",
+        "作答人数": 43,
+        "平均得分": 95.81395348837209
+    },
+    "2713": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/可得数列_1580888414706.zip",
+        "作答人数": 45,
+        "平均得分": 93.70355555555555
+    },
+    "2735": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/主席树1_1580961188805.zip",
+        "作答人数": 47,
+        "平均得分": 95.74468085106383
+    },
+    "2757": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/连通块乘积_1580976243416.zip",
+        "作答人数": 44,
+        "平均得分": 98.86363636363636
+    },
+    "2712": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/模式串_1580887651562.zip",
+        "作答人数": 43,
+        "平均得分": 95.81395348837209
+    },
+    "2734": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/采花_1580960835626.zip",
+        "作答人数": 42,
+        "平均得分": 92.06357142857144
+    },
+    "2733": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/加密询问_1580958904470.zip",
+        "作答人数": 38,
+        "平均得分": 94.21052631578948
+    },
+    "2776": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/连接词_1581001232191.zip",
+        "作答人数": 48,
+        "平均得分": 92.5
+    },
+    "2698": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/严格N元树_1580877905189.zip",
+        "作答人数": 47,
+        "平均得分": 98.93617021276596
+    },
+    "2510": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/树链剖分_1580541217817.zip",
+        "作答人数": 40,
+        "平均得分": 93.0
+    },
+    "2652": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/奖学金_1580800159222.zip",
+        "作答人数": 47,
+        "平均得分": 91.91489361702128
+    },
+    "2719": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/会场预约_1580906932159.zip",
+        "作答人数": 45,
+        "平均得分": 96.44444444444444
+    },
+    "2758": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/m叉树的数量_1580976854359.zip",
+        "作答人数": 47,
+        "平均得分": 96.80829787234042
+    },
+    "2714": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/词语接龙游戏_1580888835558.zip",
+        "作答人数": 45,
+        "平均得分": 90.66666666666667
+    },
+    "2736": {
+        "题目类型": "树结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/主席树2_1580961573038.zip",
+        "作答人数": 47,
+        "平均得分": 96.59574468085107
+    },
+    "2595": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/无聊的杰克_1580711539997.zip",
+        "作答人数": 58,
+        "平均得分": 100.0
+    },
+    "2452": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/搜索二维矩阵_1580450451331.zip",
+        "作答人数": 55,
+        "平均得分": 98.18181818181819
+    },
+    "2625": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/给表达式添加运算符_1580742223740.zip",
+        "作答人数": 52,
+        "平均得分": 99.61538461538461
+    },
+    "2624": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/为运算表达式设计优先级_1580741602614.zip",
+        "作答人数": 54,
+        "平均得分": 98.51851851851852
+    },
+    "2623": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/数组中的第K个最大元素_1580741040767.zip",
+        "作答人数": 55,
+        "平均得分": 99.27272727272727
+    },
+    "2622": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/多数元素_1580740721632.zip",
+        "作答人数": 57,
+        "平均得分": 98.24561403508773
+    },
+    "2621": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最大子序和_1580739909531.zip",
+        "作答人数": 58,
+        "平均得分": 97.58620689655173
+    },
+    "2620": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/前n个自然数的第五次幂的和_1580742386338.zip",
+        "作答人数": 59,
+        "平均得分": 98.30508474576271
+    },
+    "2587": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/访问所有点的最小时间_1580705406252.zip",
+        "作答人数": 56,
+        "平均得分": 99.64285714285714
+    },
+    "2586": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/移动石子直到连续_1580704552388.zip",
+        "作答人数": 56,
+        "平均得分": 100.0
+    },
+    "2585": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/在LR字符串中交换相邻字符_1580704272164.zip",
+        "作答人数": 54,
+        "平均得分": 100.0
+    },
+    "2608": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/弦子序列游戏_1580736549935.zip",
+        "作答人数": 52,
+        "平均得分": 95.0
+    },
+    "2628": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/积分点数_1580743461595.zip",
+        "作答人数": 48,
+        "平均得分": 100.0
+    },
+    "2627": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/魔盒_1580743007805.zip",
+        "作答人数": 48,
+        "平均得分": 98.61104166666667
+    },
+    "2901": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/交替位二进制数_1581143895754.zip",
+        "作答人数": 57,
+        "平均得分": 100.0
+    },
+    "2626": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/戳气球_1580742403480.zip",
+        "作答人数": 55,
+        "平均得分": 98.54545454545455
+    },
+    "2583": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/丑数 III_1580702496086.zip",
+        "作答人数": 55,
+        "平均得分": 97.45454545454545
+    },
+    "2582": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/绝对值表达式的最大值_1580700864394.zip",
+        "作答人数": 56,
+        "平均得分": 100.0
+    },
+    "2361": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/正方形数组的数目_1580285150713.zip",
+        "作答人数": 55,
+        "平均得分": 98.18181818181819
+    },
+    "2581": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/逃脱阻碍者_1580700524495.zip",
+        "作答人数": 54,
+        "平均得分": 99.07407407407408
+    },
+    "2580": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/范围求和 II_1580700161229.zip",
+        "作答人数": 54,
+        "平均得分": 97.4074074074074
+    },
+    "2899": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/4的幂_1581143579362.zip",
+        "作答人数": 58,
+        "平均得分": 100.0
+    },
+    "2613": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Connell序列_1580738928482.zip",
+        "作答人数": 52,
+        "平均得分": 98.5576923076923
+    },
+    "2414": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/飞机座位分配概率_1580376746615.zip",
+        "作答人数": 54,
+        "平均得分": 100.0
+    },
+    "2612": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/非重合点对_1580738695960.zip",
+        "作答人数": 49,
+        "平均得分": 99.48979591836735
+    },
+    "2413": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/循环码排列_1580375887551.zip",
+        "作答人数": 53,
+        "平均得分": 100.0
+    },
+    "2895": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/数字范围按位与_1581142846476.zip",
+        "作答人数": 56,
+        "平均得分": 100.0
+    },
+    "2410": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最长定差子序列_1580373894535.zip",
+        "作答人数": 55,
+        "平均得分": 99.63636363636364
+    },
+    "2619": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/幸运数字_1580742133007.zip",
+        "作答人数": 51,
+        "平均得分": 100.0
+    },
+    "2418": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/不浪费原料的汉堡制作方案_1580378963086.zip",
+        "作答人数": 55,
+        "平均得分": 99.27272727272727
+    },
+    "2616": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/伊桑的总和问题_1580741047198.zip",
+        "作答人数": 53,
+        "平均得分": 97.16981132075472
+    },
+    "2417": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/检查「好数组」_1580377727820.zip",
+        "作答人数": 56,
+        "平均得分": 100.0
+    },
+    "2756": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/颜色交替的最短路径_1580975820139.zip",
+        "作答人数": 48,
+        "平均得分": 98.33333333333333
+    },
+    "2754": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/地图分析_1580974648199.zip",
+        "作答人数": 50,
+        "平均得分": 99.5
+    },
+    "2750": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最小高度树_1580971311978.zip",
+        "作答人数": 51,
+        "平均得分": 100.0
+    },
+    "2571": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/矩形区域不超过 K 的最大数值和_1580656820655.zip",
+        "作答人数": 46,
+        "平均得分": 100.0
+    },
+    "2746": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/单词接龙2_1580970254278.zip",
+        "作答人数": 50,
+        "平均得分": 92.0
+    },
+    "2897": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最大单词长度乘积_1581143317228.zip",
+        "作答人数": 53,
+        "平均得分": 100.0
+    },
+    "2577": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/规划兼职工作_1580698834134.zip",
+        "作答人数": 48,
+        "平均得分": 97.91666666666667
+    },
+    "2753": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/K站中转内最便宜的航班_1580973747993.zip",
+        "作答人数": 50,
+        "平均得分": 100.0
+    },
+    "2752": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/为高尔夫比赛砍树_1580972442392.zip",
+        "作答人数": 47,
+        "平均得分": 99.29085106382979
+    },
+    "2751": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/01矩阵_1580972048174.zip",
+        "作答人数": 49,
+        "平均得分": 96.73469387755102
+    },
+    "2640": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最小覆盖子串_1580791563491.zip",
+        "作答人数": 51,
+        "平均得分": 100.0
+    },
+    "2709": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/打砖块_1580885621336.zip",
+        "作答人数": 46,
+        "平均得分": 100.0
+    },
+    "2748": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/删除无效的括号_1580970826101.zip",
+        "作答人数": 50,
+        "平均得分": 96.66680000000001
+    },
+    "2769": {
+        "题目类型": "查找算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/网格中的最短路径_1580999506643.zip",
+        "作答人数": 47,
+        "平均得分": 95.74468085106383
+    },
+    "2422": {
+        "题目类型": "排序算法",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/快速排序_1580393229292.zip",
+        "作答人数": 44,
+        "平均得分": 97.72727272727273
+    },
+    "2903": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/串联字符串的最大长度_1581144192513.zip",
+        "作答人数": 48,
+        "平均得分": 93.75041666666668
+    },
+    "2893": {
+        "题目类型": "数组",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/只出现一次的数字_1581142489344.zip",
+        "作答人数": 51,
+        "平均得分": 100.0
+    },
+    "2953": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/数字对_1581058868768.zip",
+        "作答人数": 53,
+        "平均得分": 88.99377358490567
+    },
+    "2588": {
+        "题目类型": "数字操作",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/史密斯数_1580707995441.zip",
+        "作答人数": 51,
+        "平均得分": 96.07843137254902
+    },
+    "2350": {
+        "题目类型": "图结构",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/小Y和地铁_1580268730979.zip",
+        "作答人数": 35,
+        "平均得分": 87.14285714285714
+    }
+}
