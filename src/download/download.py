@@ -50,6 +50,6 @@ if __name__ == '__main__':
     baseStorage = "../../data"
     if not os.path.exists("../../data"):
         os.makedirs("../../data")
-    jsonPath = "../../sample.json"
+    jsonPath = "../../test_data.json"
     download(baseUrl, jsonPath, baseStorage)
     un_zip_tree(baseStorage)
