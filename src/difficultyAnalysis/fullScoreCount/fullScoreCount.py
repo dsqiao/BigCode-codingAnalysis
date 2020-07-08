@@ -26,11 +26,22 @@ for user_id in user_ids:
             if case['final_score'] == 100 :
                 case_full_score[case['case_id']][1] += 1  # 满分，增加满分人数
 
+maxFullPro = 0
+minFullPro = 1
+
 for key in case_full_score:
     case_info_fullNum[key]['作答人数'] = case_full_score[key][0]
     case_info_fullNum[key]['满分人数'] = case_full_score[key][1]
     case_info_fullNum[key]['满分比例'] = case_full_score[key][1] / case_full_score[key][0]
-    case_info_fullNum[key]['index'] = (1 - case_info_fullNum[key]['满分比例']) * 100  # 该项得分 = 1 - 满分比例（100分制）
+    maxFullPro = max(maxFullPro,case_info_fullNum[key]['满分比例'])
+    minFullPro = min(minFullPro,case_info_fullNum[key]['满分比例'])
+
+# print(maxFullPro)
+# print(minFullPro)
+
+for key in case_full_score:
+    case_info_fullNum[key]['index'] = (1 - (case_info_fullNum[key]['满分比例'] - minFullPro) / (maxFullPro - minFullPro)) * 100
+
 
 json_str = json.dumps(case_info_fullNum,ensure_ascii=False, indent=4)
 with open('./case_info_fullCount.json','w',encoding='utf-8') as fp:

@@ -34,16 +34,19 @@ for user_id in user_ids:
                         uploadTimes += 1
                 case_upload_times[case['case_id']][1] += uploadTimes
 
-maxUploadTimes=0
+maxUploadTimes = 1
+minUploadTimes = 1
 for key in case_upload_times:
     case_info_uploadTimes[key]['满分人数'] = case_upload_times[key][0]
     case_info_uploadTimes[key]['平均提交次数'] = case_upload_times[key][1] / case_upload_times[key][0]
     maxUploadTimes = max(maxUploadTimes,case_info_uploadTimes[key]['平均提交次数'])
+    minUploadTimes = min(minUploadTimes,case_info_uploadTimes[key]['平均提交次数'])
 
-print(maxUploadTimes)
+# print(maxUploadTimes)
+# print(minUploadTimes)
 
 for key in case_upload_times:
-    case_info_uploadTimes[key]['index'] = case_info_uploadTimes[key]['平均提交次数'] / maxUploadTimes * 100
+    case_info_uploadTimes[key]['index'] = (case_info_uploadTimes[key]['平均提交次数']-minUploadTimes) * 100 / (maxUploadTimes - minUploadTimes)
 
 
 json_str = json.dumps(case_info_uploadTimes,ensure_ascii=False, indent=4)
