@@ -18,7 +18,7 @@ for user_id in user_ids:
     cases = json_data[user_id]['cases']
     for case in cases:
         upload_records = case['upload_records']
-        intervals = 10000000000
+        intervals = 0
         if len(upload_records) > 0:
             intervals = upload_records[-1]["upload_time"] - upload_records[0]["upload_time"]
         if case['case_id'] not in case_ids:  # 发现新的题目

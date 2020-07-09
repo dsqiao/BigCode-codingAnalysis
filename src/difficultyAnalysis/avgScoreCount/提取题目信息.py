@@ -1,7 +1,7 @@
 import json
-
+import numpy as np
 # 读取json文件并写入为字典格式
-with open("../test_data.json", 'r', encoding='utf-8') as fp:
+with open("../../../test_data.json", 'r', encoding='utf-8') as fp:
     json_data = json.load(fp)
 
 # 读取所有user_id
@@ -25,12 +25,21 @@ for user_id in user_ids:
             case_score[case['case_id']][1] += 1
 
 
+average_scores=[]
+
 for key in case_score:
     case_info[key]['作答人数'] = case_score[key][1]
-    case_info[key]['平均得分'] = case_score[key][0] / case_score[key][1]
+    average_score=case_score[key][0] / case_score[key][1]
+    case_info[key]['平均得分'] = average_score
+    average_scores.append(100-average_score)
 
+max_average_score=np.max(average_scores)
+min_average_score=np.min(average_scores)
+
+for key in case_score:
+    case_info.get(key)['index']=(100-case_info.get(key)['平均得分']-min_average_score)/(max_average_score-min_average_score)*100
 
 # 将题目信息写入case_info.json文件
 json_str = json.dumps(case_info, ensure_ascii=False, indent=4)
-with open('../case_info.json', 'w', encoding='utf-8') as fp:
+with open('case_info.json', 'w', encoding='utf-8') as fp:
     fp.write(json_str)
