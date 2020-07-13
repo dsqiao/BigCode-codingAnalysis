@@ -20,20 +20,22 @@ font = FontProperties(fname=r"C:\Windows\Fonts\simyou.ttf",size=15)
 x = ['简单','中等','较难','困难','地狱']
 y = [count_easy,count_middle,count_lhard,count_hard,count_hell]
 
-plt.rcParams['font.sans-serif']=['SimHei']  # 显示中文标签
-plt.rcParams['axes.unicode_minus']=False
+plt.rcParams['font.sans-serif'] = ['SimHei']  # 显示中文标签
+plt.rcParams['axes.unicode_minus'] = False
 
-plt.figure(figsize=(15,15))
+plt.figure(figsize=(10,10))
 
-plt.title(u"各等级题目数量",fontproperties = font,fontsize = 25)
-plt.xlabel(u"等级",fontproperties = font,fontsize = 20)
-plt.ylabel(u"数量",fontproperties = font,fontsize = 20)
-plt.tick_params(labelsize = 18)
+plt.title(u"各等级题目数量",fontproperties=font,fontsize = 25)
+plt.xlabel(u"等级",fontproperties=font,fontsize = 20)
+plt.ylabel(u"数量",fontproperties=font,fontsize = 20)
+plt.tick_params(labelsize=18)
 
-plt.bar(x,y,color='#7AACFF',width=0.5)
+plt.bar(x,y,label='题目数量',color='#7AACFF',width=0.5)
 
+# 在柱体上方显示数值
 for a,b in zip(x,y):
     plt.text(a,b,'%s' % b, ha='center',va='bottom',fontsize=18)
 
+plt.legend(loc="upper right")  # 显示图例
 plt.show()
 
