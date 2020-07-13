@@ -71,7 +71,7 @@ for user_id in test_data:
             y = sps / avg_sps
             # 该题的表现系数mu
 
-            case_mu = 1 + 1/4 * math.log(y, 10)
+            case_mu = 1 + 1/7 * math.log(y, 10)
             mu[user_id][case_type][case['case_id']] = case_mu
 
 write_json(score_per_second_cur, "score_per_second_current.json")

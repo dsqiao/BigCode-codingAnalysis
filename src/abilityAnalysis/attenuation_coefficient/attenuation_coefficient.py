@@ -46,8 +46,9 @@ for user_id in coding_sequence:
         for i in range(0, len(coding_sequence[user_id][case_type])):
             case_id = coding_sequence[user_id][case_type][i]
             level = final_score[case_id]['level']
+            x = current[user_id][case_type][level]
             current[user_id][case_type][level] += 1
-            x = current[user_id][case_type][level] / total[case_type][level]
-            coefficient = 1 / (1 + math.log(pow(x+1, 1/3), 10))
+            # x = current[user_id][case_type][level] / total[case_type][level]
+            coefficient = 1 / (1 + math.log(pow(x+1, 1/3), math.e))
             attenuation_coefficient[user_id][case_type][case_id] = coefficient
 write_json(attenuation_coefficient, "attenuation_coefficient.json")
