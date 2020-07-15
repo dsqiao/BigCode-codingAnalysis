@@ -21,6 +21,8 @@ for user_id in user_ids:
         intervals = 0
         if len(upload_records) > 0:
             intervals = upload_records[-1]["upload_time"] - upload_records[0]["upload_time"]
+        if intervals == 0:
+            intervals = 1080
         if case['case_id'] not in case_ids:  # 发现新的题目
             case_ids.append(case['case_id'])
             case_info.setdefault(case['case_id'], {'题目类型': case['case_type'], '题目地址': case['case_zip']})
@@ -29,18 +31,20 @@ for user_id in user_ids:
             case_average_upload_intervals.get(case['case_id']).append(intervals)
 
 for case_id in case_average_upload_intervals.keys():
-    case_info.get(case_id).setdefault('标准化后平均提交时间间隔', np.log10(np.average(case_average_upload_intervals.get(case_id))))
+    print(np.min(case_average_upload_intervals.get(case_id)))
+    print(np.max(case_average_upload_intervals.get(case_id)))
+    case_info.get(case_id).setdefault('平均提交时间间隔', (np.average(case_average_upload_intervals.get(case_id))))
 
 average_upload_time = []
 for case_id in case_info:
-    average_upload_time.append(case_info[case_id]['标准化后平均提交时间间隔'])
+    average_upload_time.append(np.log10(case_info[case_id]['平均提交时间间隔']))
 
 max_upload_time = np.max(average_upload_time)
 min_upload_time = np.min(average_upload_time)
 
 for case_id in case_average_upload_intervals.keys():
-    case_info.get(case_id).setdefault('index', (case_info.get(case_id)['标准化后平均提交时间间隔'] - min_upload_time) / (
-                max_upload_time - min_upload_time) * 100)
+    case_info.get(case_id).setdefault('index', (np.log10(case_info.get(case_id)['平均提交时间间隔']) - min_upload_time) / (
+            max_upload_time - min_upload_time) * 100)
 
 json_str = json.dumps(case_info, ensure_ascii=False, indent=4)
 with open('case_info_uploadIntervals.json', 'w', encoding='utf-8') as fp:
