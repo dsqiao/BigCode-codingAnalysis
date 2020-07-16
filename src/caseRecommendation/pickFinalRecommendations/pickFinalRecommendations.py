@@ -5,6 +5,7 @@ from tkinter.filedialog import askopenfilename
 import requests
 import zipfile as z
 import os
+import sys
 
 ability_score_path = "../../abilityAnalysis/ability_score.json"
 case_level_path = "../../difficultyAnalysis/finalScore/final_score.json"
@@ -136,3 +137,4 @@ if __name__ == '__main__':
     text = tkinter.Text(root)
     text.place(x=30, y=120, width=940, height=400)
     root.mainloop()
+
