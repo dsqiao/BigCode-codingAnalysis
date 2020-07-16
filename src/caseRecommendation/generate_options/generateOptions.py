@@ -2,11 +2,21 @@ import json
 import numpy as np
 import random
 import math
+import os
 
-ability_score_path = "../../abilityAnalysis/ability_score.json"
-case_level_path = "../../difficultyAnalysis/finalScore/final_score.json"
-total_info_path = "../../../test_data.json"
-case_info_path = "../../difficultyAnalysis/avgScoreCount/case_info.json"
+current_path = os.getcwd()
+root_path = ""
+for i in range(0, len(current_path)):
+    root_path += current_path[i]
+    if current_path[i+1:i+4] == 'src':
+        break
+# print(root_path)
+
+
+ability_score_path = root_path + "src/abilityAnalysis/ability_score.json"
+case_level_path = root_path + "src/difficultyAnalysis/finalScore/final_score.json"
+total_info_path = root_path + "test_data.json"
+case_info_path = root_path + "src/difficultyAnalysis/avgScoreCount/case_info.json"
 
 
 # 加载数据

@@ -1,14 +1,18 @@
 import json
 from src.caseRecommendation.generate_options import generateOptions
-import tkinter
-from tkinter.filedialog import askopenfilename
-import requests
-import zipfile as z
 import os
 
-ability_score_path = "../../abilityAnalysis/ability_score.json"
-case_level_path = "../../difficultyAnalysis/finalScore/final_score.json"
-options_path = "./generated_optional_cases.json"
+current_path = os.getcwd()
+root_path = ""
+for i in range(0, len(current_path)):
+    root_path += current_path[i]
+    if current_path[i+1:i+4] == 'src':
+        break
+
+
+ability_score_path = root_path + "src/abilityAnalysis/ability_score.json"
+case_level_path = root_path + "src/difficultyAnalysis/finalScore/final_score.json"
+options_path = root_path + "src/caseRecommendation/generate_options/generated_optional_cases.json"
 
 case_weight = {
     "数组": 301 / 1413,  # 301
@@ -62,77 +66,7 @@ def pick_final_recommendations(user_id):
     json_str = json.dumps(final_recommendations, ensure_ascii=False, indent=4)
     with open('final_recommendations.json', 'w', encoding='utf-8') as fp:
         fp.write(json_str)
-    return final_recommendations
-
-
-def open_file(file_path):
-    global json_data
-    with open(file_path, 'r', encoding='utf-8') as f:
-        json_data = json.load(f)
-        print(json_data)
-
-
-def select_file():
-    global path
-    path = askopenfilename()
-    if path != "":
-        open_file(path)
-
-
-def unzip(zip_src, dst_dir):
-    fz = z.ZipFile(zip_src, 'r')
-    for filename in ["readme.md"]:
-        fz.extract(filename, dst_dir)
-
-
-def cal():
-    global stu_id_entry
-    global text
-    stu_id = stu_id_entry.get()
-    try:
-        final_recommendations = pick_final_recommendations(stu_id)
-        text.delete(1.0, tkinter.END)
-        i = 0
-        for case_id in final_recommendations:
-            url = final_recommendations[case_id]['题目地址']
-            try:
-                print(url)
-                i += 1
-                text.insert("insert", "\n\n题目" + str(i) + ": " + '\n')
-                r = requests.get(url)
-                with open("temp" + str(case_id), "wb") as f:
-                    f.write(r.content)
-                unzip("temp" + str(case_id), os.getcwd())
-                case = open('readme.md').read()
-                print(case)
-                text.insert("insert", case)
-            except TimeoutError:
-                text.insert("insert", "下载题目异常")
-    except TypeError:
-        text.delete(1.0, tkinter.END)
-        if stu_id == "":
-            text.insert("insert", "输入不能为空")
-        else:
-            text.insert("insert", "非法输入: " + stu_id + '\n')
 
 
 if __name__ == '__main__':
-
-    path = ""
-    json_data = {}
-    root = tkinter.Tk()
-    root.geometry('1000x600')
-    root.title('title')
-
-    label = tkinter.Label(root, text="输入学生编号：")
-    label.place(x=210, y=60, wid=160, height=30)
-
-    stu_id_entry = tkinter.Entry(root)
-    stu_id_entry.place(x=360, y=60, width=220, height=30)
-
-    cal_btu = tkinter.Button(root, text="推荐", command=cal)
-    cal_btu.place(x=610, y=60, width=80, height=30)
-
-    text = tkinter.Text(root)
-    text.place(x=30, y=120, width=940, height=400)
-    root.mainloop()
+    pick_final_recommendations('48117')
