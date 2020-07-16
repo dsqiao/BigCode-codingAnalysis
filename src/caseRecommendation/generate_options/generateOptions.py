@@ -20,58 +20,47 @@ case_level_data = load(case_level_path)
 total_info_data = load(total_info_path)
 case_info_data = load(case_info_path)
 
-case_type = [
-    "数组",
-    "线性表",
-    "排序",
-    "字符串",
-    "数字操作",
-    "查找",
-    # "树",
-    # "图"
-]
+total_case_type = ["字符串", "数组", "线性表", "排序算法", "查找算法", "数字操作", "树结构", "图结构"]
 
 
 # 映射函数
 def convert_map(x):
     return 80 * math.log(1 + pow(x, 2), 2) / (
-                math.log(1 + pow(x, 2), 2) + math.log(pow(1 + x, 0.5), 2) + 80 * math.pow(1 + x, -1 / 2.5))
+            math.log(1 + pow(x, 2), 2) + math.log(pow(1 + x, 0.5), 2) + 80 * math.pow(1 + x, -1 / 2.5))
 
 
 # 检查与能力是否匹配
 def check_fitness(converted_score, case_level):
-    return abs(converted_score - case_level) <= 10
-
-
-# 获取随机题目类型
-def random_get_type(start, end):
-    return case_type[random.randint(start, end)]
+    return abs(converted_score - case_level) <= 5
 
 
 # 产生备选题目
 def generate_options(user_id):
     user_final_score = {}
+    total_options = []
     generated_optional_cases = {}
     user_score = ability_score_data.get(user_id)
     for case in user_score:
         user_final_score.setdefault(case, user_score.get(case)[-1][0] if len(user_score.get(case)) > 0 else 0)
+    for case in total_case_type:
+        if case not in user_final_score.keys():
+            user_final_score.setdefault(case, 0)
     finished_case_ids = []
     case_data = total_info_data.get(user_id)["cases"]
     for case in case_data:
         finished_case_ids.append(case["case_id"])
-    circle = 8
-    for i in range(circle):
-        random_type = random_get_type(0, 5)
-        for case_id in case_info_data:
-            if case_id in finished_case_ids:
-                continue
-            else:
-                if case_info_data.get(case_id)["题目类型"] == random_type:
-                    if check_fitness(convert_map(user_final_score.get(random_type)),
-                                     case_level_data.get(case_id)["index"]):
-                        generated_optional_cases.setdefault(case_id, {"题目类型": case_info_data.get(case_id)["题目类型"],
-                                                                      "题目地址": case_info_data.get(case_id)["题目地址"]})
-                        break
+    for case_id in case_info_data:
+        if case_id in finished_case_ids:
+            continue
+        else:
+            case_type = case_info_data.get(case_id)["题目类型"]
+            if check_fitness(convert_map(user_final_score.get(case_type)), case_level_data.get(case_id)["index"]):
+                total_options.append(case_id)
+    np.random.shuffle(total_options)
+    basic_options = total_options[:8]
+    for op in basic_options:
+        generated_optional_cases.setdefault(op, {"题目类型": case_info_data.get(op)["题目类型"],
+                                                 "题目地址": case_info_data.get(op)["题目地址"]})
     print(generated_optional_cases)
     # for case_id in generated_optional_cases:
     #     print(case_id)
