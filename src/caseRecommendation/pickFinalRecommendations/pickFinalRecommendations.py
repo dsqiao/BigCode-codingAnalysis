@@ -11,14 +11,14 @@ case_level_path = "../../difficultyAnalysis/finalScore/final_score.json"
 options_path = "./generated_optional_cases.json"
 
 case_weight = {
-    "数组": 301/1413,  # 301
-    "线性表": 128/1413,  # 64+11+53=128
-    "排序": 63/1413,  # 63
-    "字符串": 204/1413,  # 204
-    "数字操作": 199/1413,  # 199
-    "查找": 310/1413,  # 141+93+76=310
-    "树": 163/1413,  # 163
-    "图":  45/1413  # 45
+    "数组": 301 / 1413,  # 301
+    "线性表": 128 / 1413,  # 64+11+53=128
+    "排序算法": 63 / 1413,  # 63
+    "字符串": 204 / 1413,  # 204
+    "数字操作": 199 / 1413,  # 199
+    "查找算法": 310 / 1413,  # 141+93+76=310
+    "树结构": 163 / 1413,  # 163
+    "图结构": 45 / 1413  # 45
 }
 
 
@@ -50,14 +50,14 @@ def pick_final_recommendations(user_id):
         difficulty = case_level_data.get(case_id)["index"]
         # print(ability_score_data.get(user_id).get(case_type)[-1][0])
         ability = generateOptions.convert_map(ability_score_data.get(user_id).get(case_type)[-1][0])
-        profit = calculate_profit(difficulty,ability,weight)
-        case_profits.setdefault(case_id,profit)
-    profits_sorted = sorted(case_profits.items(),key = lambda x:x[1],reverse = True) # 字典按profit值降序排列
+        profit = calculate_profit(difficulty, ability, weight)
+        case_profits.setdefault(case_id, profit)
+    profits_sorted = sorted(case_profits.items(), key=lambda x: x[1], reverse=True)  # 字典按profit值降序排列
     print(profits_sorted)
     for i in range(2):
         # 选取收益最高的两题作为最后的推荐题目
         selected_case_id = profits_sorted[i][0]
-        final_recommendations.setdefault(selected_case_id,options_data.get(selected_case_id))
+        final_recommendations.setdefault(selected_case_id, options_data.get(selected_case_id))
     print(final_recommendations)
     json_str = json.dumps(final_recommendations, ensure_ascii=False, indent=4)
     with open('final_recommendations.json', 'w', encoding='utf-8') as fp:
