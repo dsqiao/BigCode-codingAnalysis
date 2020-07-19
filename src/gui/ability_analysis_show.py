@@ -14,14 +14,18 @@ def show():
         img = ImageTk.PhotoImage(img_open)
         figure = tkinter.Label(root,image=img)
         figure.place(x=30, y=120, width=940, height=550)
-        root.mainloop()
     except TimeoutError:
         figure=tkinter.Label(root, text="加载图片异常")
-    except TypeError:
+        figure.place(x=100, y=120)
+    except AttributeError:
         if stu_id == "":
             figure = tkinter.Label(root, text="输入不能为空")
+            figure.place(x=100, y=120)
         else:
             figure = tkinter.Label(root, text="非法输入：" + stu_id)
+            figure.place(x=100, y=120)
+
+    root.mainloop()
 
 
 if __name__ == '__main__':
