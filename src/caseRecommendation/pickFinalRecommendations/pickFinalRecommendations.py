@@ -66,7 +66,7 @@ def pick_final_recommendations(user_id):
     json_str = json.dumps(final_recommendations, ensure_ascii=False, indent=4)
     with open('final_recommendations.json', 'w', encoding='utf-8') as fp:
         fp.write(json_str)
-
+    return final_recommendations
 
 if __name__ == '__main__':
     pick_final_recommendations('48117')

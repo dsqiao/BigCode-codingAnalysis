@@ -1,7 +1,15 @@
 import matplotlib.pyplot as plt
 import json
+import os
 
-ability_score_path = "./ability_score.json"
+current_path = os.getcwd()
+root_path = ""
+for i in range(0, len(current_path)):
+    root_path += current_path[i]
+    if current_path[i+1:i+4] == 'src':
+        break
+
+ability_score_path = root_path + "src/abilityAnalysis/ability_score.json"
 
 plt.rcParams['font.sans-serif'] = ['SimHei']  # 显示中文标签
 plt.rcParams['axes.unicode_minus'] = False
@@ -29,10 +37,13 @@ def draw(userId):
         plt.ylabel("该类型能力得分")
         plt.title("用户" + userId + "的学习能力曲线")
         plt.legend(loc="best")
+        plt.savefig("ability_figure.jpg")
         plt.show()
-
+        figure_path = os.path.abspath("ability_figure.jpg")
+        print(figure_path)
+        return figure_path
 
 if __name__ == '__main__':
     draw("48117")
-    draw("49405")
-    draw("60836")
+    # draw("49405")
+    # draw("60836")
