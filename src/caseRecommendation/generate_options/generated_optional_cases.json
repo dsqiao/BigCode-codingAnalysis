@@ -1,34 +1,34 @@
 {
-    "2503": {
-        "题目类型": "树结构",
-        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/树的最长路径_1580538013860.zip"
-    },
-    "2544": {
-        "题目类型": "线性表",
-        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/检查两个线段是否相交_1580612630638.zip"
-    },
-    "2627": {
-        "题目类型": "数字操作",
-        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/魔盒_1580743007805.zip"
-    },
-    "2152": {
-        "题目类型": "排序算法",
-        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/魔方俱乐部_1578209813393.zip"
-    },
-    "2959": {
+    "2966": {
         "题目类型": "字符串",
-        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/找相同字符_1581049260112.zip"
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/文本校正_1581043489527.zip"
     },
-    "2215": {
-        "题目类型": "数字操作",
-        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最优除法_1578295553427.zip"
+    "2981": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字符串的展开_1580988218202.zip"
     },
-    "2698": {
-        "题目类型": "树结构",
-        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/严格N元树_1580877905189.zip"
+    "2768": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/计数可被M整除的数字_1580999435602.zip"
     },
-    "2823": {
+    "2473": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/直方图中的最大矩形面积_1580472198083.zip"
+    },
+    "2939": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/删数问题_1581074073164.zip"
+    },
+    "2727": {
+        "题目类型": "线性表",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/分配老鼠洞_1580914826025.zip"
+    },
+    "2813": {
         "题目类型": "数组",
-        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/整除数列_1581072882620.zip"
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/纸牌游戏获胜者_1581072461937.zip"
+    },
+    "2950": {
+        "题目类型": "字符串",
+        "题目地址": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字符串分解_1581060840424.zip"
     }
 }

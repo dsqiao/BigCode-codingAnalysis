@@ -71,7 +71,7 @@ def generate_options(user_id):
     for op in basic_options:
         generated_optional_cases.setdefault(op, {"题目类型": case_info_data.get(op)["题目类型"],
                                                  "题目地址": case_info_data.get(op)["题目地址"]})
-    print(generated_optional_cases)
+    # print(generated_optional_cases)
     # for case_id in generated_optional_cases:
     #     print(case_id)
     #     for info in generated_optional_cases.get(case_id):
@@ -82,4 +82,4 @@ def generate_options(user_id):
 
 
 if __name__ == '__main__':
-    generate_options("60836")
+    generate_options("48117")
