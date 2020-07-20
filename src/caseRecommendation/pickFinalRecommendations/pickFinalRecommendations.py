@@ -57,12 +57,12 @@ def pick_final_recommendations(user_id):
         profit = calculate_profit(difficulty, ability, weight)
         case_profits.setdefault(case_id, profit)
     profits_sorted = sorted(case_profits.items(), key=lambda x: x[1], reverse=True)  # 字典按profit值降序排列
-    print(profits_sorted)
+    # print(profits_sorted)
     for i in range(2):
         # 选取收益最高的两题作为最后的推荐题目
         selected_case_id = profits_sorted[i][0]
         final_recommendations.setdefault(selected_case_id, options_data.get(selected_case_id))
-    print(final_recommendations)
+    # print(final_recommendations)
     json_str = json.dumps(final_recommendations, ensure_ascii=False, indent=4)
     with open('final_recommendations.json', 'w', encoding='utf-8') as fp:
         fp.write(json_str)
