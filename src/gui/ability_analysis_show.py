@@ -41,15 +41,19 @@ class AbilityAnalysisShow:
             self.figure = tkinter.Label(self.root, image=img)
             self.figure.place(x=30, y=120, width=940, height=500)
         except TimeoutError:
+            self.figure.destroy()
             self.text.insert("insert", "加载图片异常")
             self.text.place(x=100, y=120)
         except AttributeError:
             if stu_id == "":
+                self.figure.destroy()
                 self.text.insert("insert", "输入不能为空")
                 self.text.place(x=100, y=120)
             else:
+                self.figure.destroy()
                 self.text.insert("insert", "非法输入：" + stu_id)
                 self.text.place(x=100, y=120)
+        self.root.mainloop()
 
     def clear(self):
         self.label.destroy()
