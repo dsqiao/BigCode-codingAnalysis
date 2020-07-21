@@ -35,8 +35,9 @@ class CaseRecommendations:
 
     def cal(self):
         stu_id = self.stu_id_entry.get()
+        final_recommendations = pickFinalRecommendations.pick_final_recommendations(stu_id)
+        print(final_recommendations)
         try:
-            final_recommendations = pickFinalRecommendations.pick_final_recommendations(stu_id)
             self.text.delete(1.0, tkinter.END)
             i = 0
             for case_id in final_recommendations:

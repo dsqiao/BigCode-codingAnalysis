@@ -44,9 +44,11 @@ def check_fitness(converted_score, case_level):
     return abs(converted_score - case_level) <= 5
 
 
+user_final_score = {}
+
+
 # 产生备选题目
 def generate_options(user_id):
-    user_final_score = {}
     total_options = []
     generated_optional_cases = {}
     user_score = ability_score_data.get(user_id)
@@ -67,7 +69,7 @@ def generate_options(user_id):
             if check_fitness(convert_map(user_final_score.get(case_type)), case_level_data.get(case_id)["index"]):
                 total_options.append(case_id)
     np.random.shuffle(total_options)
-    basic_options = total_options[:8]
+    basic_options = total_options[:8] if len(total_options) > 8 else total_options
     for op in basic_options:
         generated_optional_cases.setdefault(op, {"题目类型": case_info_data.get(op)["题目类型"],
                                                  "题目地址": case_info_data.get(op)["题目地址"]})
@@ -76,7 +78,7 @@ def generate_options(user_id):
     #     print(case_id)
     #     for info in generated_optional_cases.get(case_id):
     #         print(info)
-    print(generated_optional_cases)
+    # print(generated_optional_cases)
     json_str = json.dumps(generated_optional_cases, ensure_ascii=False, indent=4)
     storage_path = root_path + "/src/caseRecommendation/generate_options/generated_optional_cases.json"
     with open(storage_path, 'w', encoding='utf-8') as fp:

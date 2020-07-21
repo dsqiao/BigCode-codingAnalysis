@@ -6,9 +6,8 @@ current_path = os.getcwd()
 root_path = ""
 for i in range(0, len(current_path)):
     root_path += current_path[i]
-    if current_path[i+1:i+4] == 'src':
+    if current_path[i + 1:i + 4] == 'src':
         break
-
 
 ability_score_path = root_path + "src/abilityAnalysis/ability_score.json"
 case_level_path = root_path + "src/difficultyAnalysis/finalScore/final_score.json"
@@ -52,13 +51,13 @@ def pick_final_recommendations(user_id):
         case_type = options_data.get(case_id).get("题目类型")
         weight = case_weight.get(case_type)
         difficulty = case_level_data.get(case_id)["index"]
-        # print(ability_score_data.get(user_id).get(case_type)[-1][0])
-        ability = generateOptions.convert_map(ability_score_data.get(user_id).get(case_type)[-1][0])
+        ability = generateOptions.convert_map(generateOptions.user_final_score.get(case_type))
         profit = calculate_profit(difficulty, ability, weight)
         case_profits.setdefault(case_id, profit)
     profits_sorted = sorted(case_profits.items(), key=lambda x: x[1], reverse=True)  # 字典按profit值降序排列
     # print(profits_sorted)
-    for i in range(2):
+    final_num = 2 if len(profits_sorted) > 2 else len(profits_sorted)
+    for i in range(final_num):
         # 选取收益最高的两题作为最后的推荐题目
         selected_case_id = profits_sorted[i][0]
         final_recommendations.setdefault(selected_case_id, options_data.get(selected_case_id))
