@@ -47,9 +47,11 @@ class AbilityAnalysisShow:
         except AttributeError:
             self.figure.destroy()
             if stu_id == "":
+                self.figure.destroy()
                 self.text.insert("insert", "输入不能为空")
                 self.text.place(x=100, y=120)
             else:
+                self.figure.destroy()
                 self.text.insert("insert", "非法输入：" + stu_id)
                 self.text.place(x=100, y=120)
         self.root.mainloop()
