@@ -1,7 +1,16 @@
 import json
 import numpy as np
+import os
+
 # 读取json文件并写入为字典格式
-with open("../../../test_data.json", 'r', encoding='utf-8') as fp:
+current_path = os.getcwd()
+root_path = ""
+for i in range(0, len(current_path)):
+    root_path += current_path[i]
+    if current_path[i + 1:i + 4] == 'src':
+        break
+data_path = root_path + "/test_data.json"
+with open(data_path, 'r', encoding='utf-8') as fp:
     json_data = json.load(fp)
 
 # 读取所有user_id
@@ -24,22 +33,23 @@ for user_id in user_ids:
             case_score[case['case_id']][0] += case['final_score']
             case_score[case['case_id']][1] += 1
 
-
-average_scores=[]
+average_scores = []
 
 for key in case_score:
     case_info[key]['作答人数'] = case_score[key][1]
-    average_score=case_score[key][0] / case_score[key][1]
+    average_score = case_score[key][0] / case_score[key][1]
     case_info[key]['平均得分'] = average_score
-    average_scores.append(100-average_score)
+    average_scores.append(100 - average_score)
 
-max_average_score=np.max(average_scores)
-min_average_score=np.min(average_scores)
+max_average_score = np.max(average_scores)
+min_average_score = np.min(average_scores)
 
 for key in case_score:
-    case_info.get(key)['index']=(100-case_info.get(key)['平均得分']-min_average_score)/(max_average_score-min_average_score)*100
+    case_info.get(key)['index'] = (100 - case_info.get(key)['平均得分'] - min_average_score) / (
+                max_average_score - min_average_score) * 100
 
 # 将题目信息写入case_info.json文件
 json_str = json.dumps(case_info, ensure_ascii=False, indent=4)
-with open('case_info.json', 'w', encoding='utf-8') as fp:
+storage_path = root_path + "/src/difficultyAnalysis/avgScoreCount/case_info.json"
+with open(storage_path, 'w', encoding='utf-8') as fp:
     fp.write(json_str)

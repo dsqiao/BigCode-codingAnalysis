@@ -45,10 +45,10 @@ class CaseRecommendations:
                     i += 1
                     self.text.insert("insert", "\n\n题目" + str(i) + ": " + '\n')
                     r = requests.get(url)
-                    with open("temp" + str(case_id), "wb") as f:
+                    with open("temp" , "wb") as f:
                         f.write(r.content)
-                    self.unzip(self, "temp" + str(case_id), os.getcwd())
-                    case = open('readme.md').read()
+                    self.unzip(self, "temp", os.getcwd())
+                    case = open('readme.md',encoding='utf-8').read()
                     self.text.insert("insert", case)
                 except TimeoutError:
                     self.text.insert("insert", "下载题目异常")

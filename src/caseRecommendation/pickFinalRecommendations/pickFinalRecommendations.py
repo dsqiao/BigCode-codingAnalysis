@@ -64,9 +64,11 @@ def pick_final_recommendations(user_id):
         final_recommendations.setdefault(selected_case_id, options_data.get(selected_case_id))
     # print(final_recommendations)
     json_str = json.dumps(final_recommendations, ensure_ascii=False, indent=4)
-    with open('final_recommendations.json', 'w', encoding='utf-8') as fp:
+    storage_path = root_path + "/src/caseRecommendation/pickFinalRecommendations/final_recommendations.json"
+    with open(storage_path, 'w', encoding='utf-8') as fp:
         fp.write(json_str)
     return final_recommendations
+
 
 if __name__ == '__main__':
     pick_final_recommendations('48117')

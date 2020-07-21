@@ -11,6 +11,13 @@ def line_count(code):
     return res
 
 
+current_path = os.getcwd()
+root_path = ""
+for i in range(0, len(current_path)):
+    root_path += current_path[i]
+    if current_path[i + 1:i + 4] == 'src':
+        break
+
 if __name__ == '__main__':
     root = '../../../data/solutions'
     case_line_statistics = {}  # 按照{'case_id': {'总答题数':'', '平均答题行数':'', 'index': ''}}储存每题行数情况
@@ -52,7 +59,6 @@ if __name__ == '__main__':
         case_line_statistics[case_id]['index'] = index
 
     json_str = json.dumps(case_line_statistics, ensure_ascii=False, indent=4)
-    with open('line_count.json', 'w', encoding='utf-8') as fp:
+    storage_path = root_path + "/src/difficultyAnalysis/codeLineCount/line_count.json"
+    with open(storage_path, 'w', encoding='utf-8') as fp:
         fp.write(json_str)
-
-

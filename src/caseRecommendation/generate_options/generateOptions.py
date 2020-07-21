@@ -8,7 +8,7 @@ current_path = os.getcwd()
 root_path = ""
 for i in range(0, len(current_path)):
     root_path += current_path[i]
-    if current_path[i+1:i+4] == 'src':
+    if current_path[i + 1:i + 4] == 'src':
         break
 # print(root_path)
 
@@ -76,8 +76,10 @@ def generate_options(user_id):
     #     print(case_id)
     #     for info in generated_optional_cases.get(case_id):
     #         print(info)
+    print(generated_optional_cases)
     json_str = json.dumps(generated_optional_cases, ensure_ascii=False, indent=4)
-    with open('generated_optional_cases.json', 'w', encoding='utf-8') as fp:
+    storage_path = root_path + "/src/caseRecommendation/generate_options/generated_optional_cases.json"
+    with open(storage_path, 'w', encoding='utf-8') as fp:
         fp.write(json_str)
 
 
