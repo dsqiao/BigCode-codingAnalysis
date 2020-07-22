@@ -58,7 +58,7 @@ class CaseRecommendations:
             if stu_id == "":
                 self.text.insert("insert", "输入不能为空")
             else:
-                self.text.insert("insert", "非法输入: " + stu_id + '\n')
+                self.text.insert("insert", "没有查到这位同学：: " + stu_id + '\n')
 
     @staticmethod
     def unzip(self, zip_src, dst_dir):

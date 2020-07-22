@@ -31,6 +31,7 @@ class AbilityAnalysisShow:
         self.text = tkinter.Text()
 
     def show(self):
+        self.figure.destroy()
         stu_id = self.stu_id_entry.get()
         self.text.delete(1.0, tkinter.END)
         try:
@@ -47,12 +48,10 @@ class AbilityAnalysisShow:
         except AttributeError:
             self.figure.destroy()
             if stu_id == "":
-                self.figure.destroy()
                 self.text.insert("insert", "输入不能为空")
                 self.text.place(x=100, y=120)
             else:
-                self.figure.destroy()
-                self.text.insert("insert", "非法输入：" + stu_id)
+                self.text.insert("insert", "没有查到这位同学：" + stu_id)
                 self.text.place(x=100, y=120)
         self.root.mainloop()
 

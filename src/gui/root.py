@@ -26,7 +26,7 @@ class Root:
         self.root.geometry('1000x700')
 
         self.root.title('')
-        self.label = tkinter.Label(self.root, text="数据科学基础大作业gui", font=("", 40))
+        self.label = tkinter.Label(self.root, text="数据科学基础大作业用户界面", font=("", 40))
         self.btn1 = tkinter.Button(self.root, text="学生题目推荐", command=self.call_case_recommendation)
         self.btn2 = tkinter.Button(self.root, text="学生能力曲线查询", command=self.call_ability_analysis)
         self.btn3 = tkinter.Button(self.root, text="题目查询", command=self.call_case_inquire)
